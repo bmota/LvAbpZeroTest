@@ -58,7 +58,10 @@ namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Startup
                         ScriptPaths.Abp_Moment,
                         ScriptPaths.Abp_jTable,
                         ScriptPaths.MustacheJs,
-                        ScriptPaths.Tether
+                        ScriptPaths.Tether,
+                        ScriptPaths.kendoAll,
+                        ScriptPaths.KendoMessages,
+                        ScriptPaths.KendoCulture
                     ).ForceOrdered()
                 );
 
@@ -104,6 +107,9 @@ namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Startup
                     .Include(StylePaths.Bootstrap_Switch)
                     .Include(StylePaths.Bootstrap_Select)
                     .Include(StylePaths.JQuery_Jcrop)
+                    .Include(StylePaths.Kendo_Material_Common_Theme, new CssRewriteUrlWithVirtualDirectoryTransform())
+                    .Include(StylePaths.Kendo_Material_Theme, new CssRewriteUrlWithVirtualDirectoryTransform())
+                    .Include(StylePaths.Kendo_Material_Mobile_Theme, new CssRewriteUrlWithVirtualDirectoryTransform())
                     .ForceOrdered()
                 );
         }

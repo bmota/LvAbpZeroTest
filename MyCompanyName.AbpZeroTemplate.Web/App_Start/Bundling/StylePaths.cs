@@ -19,5 +19,10 @@ namespace MyCompanyName.AbpZeroTemplate.Web.Bundling
         public const string Bootstrap_Switch = "~/libs/bootstrap-switch/css/bootstrap-switch.min.css";
         public const string JQuery_jTable_Theme = "~/libs/jquery-jtable/themes/metro/blue/jtable.min.css";
         public const string JQuery_Jcrop = "~/libs/jcrop/css/jquery.Jcrop.min.css";
+
+        //Kendo CSS
+        public const string Kendo_Material_Common_Theme = "~/KendoUI/styles/kendo.common-material.min.css";
+        public const string Kendo_Material_Theme = "~/KendoUI/styles/kendo.material.min.css";
+        public const string Kendo_Material_Mobile_Theme = "~/KendoUI/styles/kendo.material.mobile.min.css";
     }
 }

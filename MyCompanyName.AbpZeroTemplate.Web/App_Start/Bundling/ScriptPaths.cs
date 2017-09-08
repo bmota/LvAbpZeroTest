@@ -78,6 +78,13 @@ namespace MyCompanyName.AbpZeroTemplate.Web.Bundling
         public const string Abp_Angular = "~/Abp/Framework/scripts/libs/angularjs/abp.ng.js";//SPA!
         public const string Abp_jTable = "~/Abp/Framework/scripts/libs/abp.jtable.js";
 
+
+        //Kendo UI
+        public const string kendoAll = "~/KendoUI/js/kendo.all.min.js";
+        public const string KendoMessages = "~/KendoUI/js/messages/kendo.messages.es-DO.js";
+        public const string KendoCulture = "~/KendoUI/js/cultures/kendo.culture.es-DO.min.js";
+
+
         public static string Angular_Localization
         {
             get
