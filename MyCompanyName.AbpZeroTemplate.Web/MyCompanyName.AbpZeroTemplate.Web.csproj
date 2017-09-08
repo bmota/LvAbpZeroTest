@@ -27,6 +27,7 @@
     <TypeScriptToolsVersion>2.2</TypeScriptToolsVersion>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -3340,6 +3341,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Kendo.DynamicLinq\Kendo.DynamicLinq.csproj">
+      <Project>{2bd75d53-e0ea-4995-8b0f-60ad709945ac}</Project>
+      <Name>Kendo.DynamicLinq</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MyCompanyName.AbpZeroTemplate.Application\MyCompanyName.AbpZeroTemplate.Application.csproj">
       <Project>{edf5d964-4c0f-4f19-b674-58a38a5e5401}</Project>
       <Name>MyCompanyName.AbpZeroTemplate.Application</Name>

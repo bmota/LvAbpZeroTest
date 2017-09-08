@@ -1,0 +1,6 @@
+C:\Users\bmota\Source\Repos\dlinq-helpers\Kendo.DynamicLinq\bin\Release\Kendo.DynamicLinq.dll
+C:\Users\bmota\Source\Repos\dlinq-helpers\Kendo.DynamicLinq\bin\Release\Kendo.DynamicLinq.pdb
+C:\Users\bmota\Source\Repos\dlinq-helpers\Kendo.DynamicLinq\bin\Release\System.Linq.Dynamic.dll
+C:\Users\bmota\Source\Repos\dlinq-helpers\Kendo.DynamicLinq\obj\Release\Kendo.DynamicLinq.dll
+C:\Users\bmota\Source\Repos\dlinq-helpers\Kendo.DynamicLinq\obj\Release\Kendo.DynamicLinq.pdb
+C:\Users\bmota\Source\Repos\dlinq-helpers\Kendo.DynamicLinq\obj\Release\Kendo.DynamicLinq.csprojResolveAssemblyReference.cache

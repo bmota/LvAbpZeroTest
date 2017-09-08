@@ -1,0 +1,10 @@
+C:\Users\bmota\Source\Repos\dlinq-helpers\Kendo.DynamicLinq.Tests\bin\Release\Kendo.DynamicLinq.Tests.dll
+C:\Users\bmota\Source\Repos\dlinq-helpers\Kendo.DynamicLinq.Tests\bin\Release\Kendo.DynamicLinq.Tests.pdb
+C:\Users\bmota\Source\Repos\dlinq-helpers\Kendo.DynamicLinq.Tests\bin\Release\Kendo.DynamicLinq.dll
+C:\Users\bmota\Source\Repos\dlinq-helpers\Kendo.DynamicLinq.Tests\bin\Release\nunit.framework.dll
+C:\Users\bmota\Source\Repos\dlinq-helpers\Kendo.DynamicLinq.Tests\bin\Release\System.Linq.Dynamic.dll
+C:\Users\bmota\Source\Repos\dlinq-helpers\Kendo.DynamicLinq.Tests\bin\Release\Kendo.DynamicLinq.pdb
+C:\Users\bmota\Source\Repos\dlinq-helpers\Kendo.DynamicLinq.Tests\bin\Release\nunit.framework.xml
+C:\Users\bmota\Source\Repos\dlinq-helpers\Kendo.DynamicLinq.Tests\obj\Release\Kendo.DynamicLinq.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bmota\Source\Repos\dlinq-helpers\Kendo.DynamicLinq.Tests\obj\Release\Kendo.DynamicLinq.Tests.dll
+C:\Users\bmota\Source\Repos\dlinq-helpers\Kendo.DynamicLinq.Tests\obj\Release\Kendo.DynamicLinq.Tests.pdb
