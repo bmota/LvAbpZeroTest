@@ -8,13 +8,13 @@ using Abp.Runtime.Session;
 using Abp.UI;
 using Abp.Web.Models;
 using Abp.Web.Mvc.Authorization;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
-using MyCompanyName.AbpZeroTemplate.Net.MimeTypes;
-using MyCompanyName.AbpZeroTemplate.Storage;
-using MyCompanyName.AbpZeroTemplate.Web.Helpers;
-using MyCompanyName.AbpZeroTemplate.Web.MultiTenancy;
+using xtWork.Template.MultiTenancy;
+using xtWork.Template.Net.MimeTypes;
+using xtWork.Template.Storage;
+using xtWork.Template.Web.Helpers;
+using xtWork.Template.Web.MultiTenancy;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Controllers
+namespace xtWork.Template.Web.Controllers
 {
     [AbpMvcAuthorize]
     public class TenantCustomizationController : AbpZeroTemplateControllerBase

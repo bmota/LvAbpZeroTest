@@ -1,6 +1,6 @@
 ﻿using Abp;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Models.Account
+namespace xtWork.Template.Web.Models.Account
 {
     public class SwitchToLinkedAccountModel
     {

@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using Abp.AutoMapper;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users.Profile.Dto
+namespace xtWork.Template.Authorization.Users.Profile.Dto
 {
     [AutoMap(typeof(User))]
     public class CurrentUserProfileEditDto

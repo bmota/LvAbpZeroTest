@@ -6,9 +6,9 @@ using Abp.Runtime.Session;
 using Abp.UI;
 using Castle.Core.Logging;
 using Microsoft.AspNet.SignalR;
-using MyCompanyName.AbpZeroTemplate.Chat;
+using xtWork.Template.Chat;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Chat.SignalR
+namespace xtWork.Template.Web.Chat.SignalR
 {
     public class ChatHub : Hub, ITransientDependency
     {

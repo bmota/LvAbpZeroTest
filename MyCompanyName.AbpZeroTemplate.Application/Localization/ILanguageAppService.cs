@@ -1,9 +1,9 @@
 ﻿using System.Threading.Tasks;
 using Abp.Application.Services;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.Localization.Dto;
+using xtWork.Template.Localization.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Localization
+namespace xtWork.Template.Localization
 {
     public interface ILanguageAppService : IApplicationService
     {

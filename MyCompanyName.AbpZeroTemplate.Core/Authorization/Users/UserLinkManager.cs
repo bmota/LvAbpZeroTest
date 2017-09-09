@@ -5,7 +5,7 @@ using Abp.Authorization.Users;
 using Abp.Domain.Repositories;
 using Abp.Domain.Uow;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users
+namespace xtWork.Template.Authorization.Users
 {
     public class UserLinkManager : AbpZeroTemplateDomainServiceBase, IUserLinkManager
     {

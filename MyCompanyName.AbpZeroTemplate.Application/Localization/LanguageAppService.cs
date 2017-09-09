@@ -12,10 +12,10 @@ using Abp.Domain.Repositories;
 using Abp.Extensions;
 using Abp.Localization;
 using Abp.UI;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Localization.Dto;
+using xtWork.Template.Authorization;
+using xtWork.Template.Localization.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Localization
+namespace xtWork.Template.Localization
 {
     [AbpAuthorize(AppPermissions.Pages_Administration_Languages)]
     public class LanguageAppService : AbpZeroTemplateAppServiceBase, ILanguageAppService

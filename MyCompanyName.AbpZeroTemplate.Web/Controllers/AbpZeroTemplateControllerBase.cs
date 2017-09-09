@@ -3,7 +3,7 @@ using Abp.UI;
 using Abp.Web.Mvc.Controllers;
 using Microsoft.AspNet.Identity;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Controllers
+namespace xtWork.Template.Web.Controllers
 {
     /// <summary>
     /// Derive all Controllers from this class.

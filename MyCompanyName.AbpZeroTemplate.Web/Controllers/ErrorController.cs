@@ -1,7 +1,7 @@
 ﻿using System.Web.Mvc;
 using Abp.Auditing;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Controllers
+namespace xtWork.Template.Web.Controllers
 {
     public class ErrorController : AbpZeroTemplateControllerBase
     {

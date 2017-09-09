@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users
+namespace xtWork.Template.Authorization.Users
 {
     [Serializable]
     public class SwitchToLinkedAccountCacheItem

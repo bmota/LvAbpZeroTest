@@ -1,6 +1,6 @@
 ﻿using Abp.Application.Navigation;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Layout
+namespace xtWork.Template.Web.Areas.Mpa.Models.Layout
 {
     public class SidebarViewModel
     {

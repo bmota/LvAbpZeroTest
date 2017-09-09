@@ -1,11 +1,11 @@
 ﻿using System.Threading.Tasks;
 using Microsoft.AspNet.Identity;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Profile;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Profile.Dto;
+using xtWork.Template.Authorization.Users.Profile;
+using xtWork.Template.Authorization.Users.Profile.Dto;
 using Shouldly;
 using Xunit;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.Authorization.Users
+namespace xtWork.Template.Tests.Authorization.Users
 {
     public class ProfileAppService_Tests : AppTestBase
     {

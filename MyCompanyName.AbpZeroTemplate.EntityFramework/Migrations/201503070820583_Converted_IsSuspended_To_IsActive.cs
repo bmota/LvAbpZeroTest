@@ -1,6 +1,6 @@
 using System.Data.Entity.Migrations;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrations
+namespace xtWork.Template.Migrations
 {
     public partial class Converted_IsSuspended_To_IsActive : DbMigration
     {

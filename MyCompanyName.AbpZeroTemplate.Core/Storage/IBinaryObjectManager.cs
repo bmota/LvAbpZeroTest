@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace MyCompanyName.AbpZeroTemplate.Storage
+namespace xtWork.Template.Storage
 {
     public interface IBinaryObjectManager
     {

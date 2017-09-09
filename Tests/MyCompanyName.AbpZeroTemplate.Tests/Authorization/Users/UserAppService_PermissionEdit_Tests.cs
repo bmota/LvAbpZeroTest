@@ -4,13 +4,13 @@ using System.Threading.Tasks;
 using Abp.Application.Services.Dto;
 using Abp.Authorization;
 using Abp.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto;
+using xtWork.Template.Authorization;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.Authorization.Users.Dto;
 using Shouldly;
 using Xunit;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.Authorization.Users
+namespace xtWork.Template.Tests.Authorization.Users
 {
     public class UserAppService_PermissionEdit_Tests : UserAppServiceTestBase
     {

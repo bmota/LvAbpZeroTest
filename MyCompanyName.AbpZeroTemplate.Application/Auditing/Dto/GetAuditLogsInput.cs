@@ -2,9 +2,9 @@
 using Abp.Extensions;
 using Abp.Runtime.Validation;
 using Abp.Timing;
-using MyCompanyName.AbpZeroTemplate.Dto;
+using xtWork.Template.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Auditing.Dto
+namespace xtWork.Template.Auditing.Dto
 {
     public class GetAuditLogsInput : PagedAndSortedInputDto, IShouldNormalize
     {

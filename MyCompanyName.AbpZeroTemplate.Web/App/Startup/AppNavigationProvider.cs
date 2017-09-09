@@ -1,9 +1,9 @@
 ﻿using Abp.Application.Navigation;
 using Abp.Localization;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Web.Navigation;
+using xtWork.Template.Authorization;
+using xtWork.Template.Web.Navigation;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.App.Startup
+namespace xtWork.Template.Web.App.Startup
 {
     /// <summary>
     /// This class defines menus for the application.

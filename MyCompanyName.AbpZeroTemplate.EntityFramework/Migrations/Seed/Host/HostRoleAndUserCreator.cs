@@ -3,12 +3,12 @@ using Abp.Authorization;
 using Abp.Authorization.Roles;
 using Abp.Authorization.Users;
 using Abp.MultiTenancy;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.EntityFramework;
+using xtWork.Template.Authorization;
+using xtWork.Template.Authorization.Roles;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.EntityFramework;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrations.Seed.Host
+namespace xtWork.Template.Migrations.Seed.Host
 {
     public class HostRoleAndUserCreator
     {

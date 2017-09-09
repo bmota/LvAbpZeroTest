@@ -2,10 +2,10 @@ using System.Threading.Tasks;
 using Abp;
 using Abp.Localization;
 using Abp.Notifications;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.MultiTenancy;
 
-namespace MyCompanyName.AbpZeroTemplate.Notifications
+namespace xtWork.Template.Notifications
 {
     public class AppNotifier : AbpZeroTemplateDomainServiceBase, IAppNotifier
     {

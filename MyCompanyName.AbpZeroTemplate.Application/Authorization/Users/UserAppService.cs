@@ -19,16 +19,16 @@ using Abp.Runtime.Session;
 using Abp.UI;
 using Abp.Zero.Configuration;
 using Microsoft.AspNet.Identity;
-using MyCompanyName.AbpZeroTemplate.Authorization.Permissions;
-using MyCompanyName.AbpZeroTemplate.Authorization.Permissions.Dto;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Exporting;
-using MyCompanyName.AbpZeroTemplate.Dto;
-using MyCompanyName.AbpZeroTemplate.Features;
-using MyCompanyName.AbpZeroTemplate.Notifications;
+using xtWork.Template.Authorization.Permissions;
+using xtWork.Template.Authorization.Permissions.Dto;
+using xtWork.Template.Authorization.Roles;
+using xtWork.Template.Authorization.Users.Dto;
+using xtWork.Template.Authorization.Users.Exporting;
+using xtWork.Template.Dto;
+using xtWork.Template.Features;
+using xtWork.Template.Notifications;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users
+namespace xtWork.Template.Authorization.Users
 {
     [AbpAuthorize(AppPermissions.Pages_Administration_Users)]
     public class UserAppService : AbpZeroTemplateAppServiceBase, IUserAppService

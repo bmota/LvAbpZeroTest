@@ -2,7 +2,7 @@ using System.Configuration;
 using Abp.Dependency;
 using Abp.Extensions;
 
-namespace MyCompanyName.AbpZeroTemplate.Web
+namespace xtWork.Template.Web
 {
     public class WebUrlService : IWebUrlService, ITransientDependency
     {

@@ -1,4 +1,4 @@
-﻿namespace MyCompanyName.AbpZeroTemplate.Debugging
+﻿namespace xtWork.Template.Debugging
 {
     public static class DebugHelper
     {

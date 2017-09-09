@@ -7,7 +7,7 @@ using Abp.Modules;
 using Abp.WebApi;
 using Swashbuckle.Application;
 
-namespace MyCompanyName.AbpZeroTemplate.WebApi
+namespace xtWork.Template.WebApi
 {
     /// <summary>
     /// Web API layer of the application.

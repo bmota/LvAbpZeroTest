@@ -1,9 +1,9 @@
 ﻿using System;
 using Abp.Application.Services.Dto;
 using Abp.AutoMapper;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
+using xtWork.Template.Authorization.Users;
 
-namespace MyCompanyName.AbpZeroTemplate.Organizations.Dto
+namespace xtWork.Template.Organizations.Dto
 {
     [AutoMapFrom(typeof(User))]
     public class OrganizationUnitUserListDto : EntityDto<long>

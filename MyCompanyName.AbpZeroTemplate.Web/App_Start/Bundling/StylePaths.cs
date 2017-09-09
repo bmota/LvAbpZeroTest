@@ -1,4 +1,4 @@
-namespace MyCompanyName.AbpZeroTemplate.Web.Bundling
+namespace xtWork.Template.Web.Bundling
 {
     public static class StylePaths
     {

@@ -1,4 +1,4 @@
-﻿namespace MyCompanyName.AbpZeroTemplate
+﻿namespace xtWork.Template
 {
     /// <summary>
     /// Some general constants for the application.

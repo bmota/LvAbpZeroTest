@@ -4,11 +4,11 @@ using Abp.AutoMapper;
 using Abp.Domain.Repositories;
 using Abp.Organizations;
 using Abp.Web.Mvc.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.OrganizationUnits;
-using MyCompanyName.AbpZeroTemplate.Web.Controllers;
+using xtWork.Template.Authorization;
+using xtWork.Template.Web.Areas.Mpa.Models.OrganizationUnits;
+using xtWork.Template.Web.Controllers;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Controllers
+namespace xtWork.Template.Web.Areas.Mpa.Controllers
 {
     [AbpMvcAuthorize(AppPermissions.Pages_Administration_OrganizationUnits)]
     public class OrganizationUnitsController : AbpZeroTemplateControllerBase

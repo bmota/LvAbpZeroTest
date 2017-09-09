@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.IO;
 using Abp.Collections.Extensions;
 using Abp.Dependency;
-using MyCompanyName.AbpZeroTemplate.Dto;
-using MyCompanyName.AbpZeroTemplate.Net.MimeTypes;
+using xtWork.Template.Dto;
+using xtWork.Template.Net.MimeTypes;
 using OfficeOpenXml;
 
-namespace MyCompanyName.AbpZeroTemplate.DataExporting.Excel.EpPlus
+namespace xtWork.Template.DataExporting.Excel.EpPlus
 {
     public abstract class EpPlusExcelExporterBase : AbpZeroTemplateServiceBase, ITransientDependency
     {

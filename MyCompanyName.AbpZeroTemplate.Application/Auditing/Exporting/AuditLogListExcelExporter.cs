@@ -2,11 +2,11 @@
 using Abp.Extensions;
 using Abp.Runtime.Session;
 using Abp.Timing.Timezone;
-using MyCompanyName.AbpZeroTemplate.Auditing.Dto;
-using MyCompanyName.AbpZeroTemplate.DataExporting.Excel.EpPlus;
-using MyCompanyName.AbpZeroTemplate.Dto;
+using xtWork.Template.Auditing.Dto;
+using xtWork.Template.DataExporting.Excel.EpPlus;
+using xtWork.Template.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Auditing.Exporting
+namespace xtWork.Template.Auditing.Exporting
 {
     public class AuditLogListExcelExporter : EpPlusExcelExporterBase, IAuditLogListExcelExporter
     {

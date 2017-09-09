@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa
+namespace xtWork.Template.Web.Areas.Mpa
 {
     public class MpaAreaRegistration : AreaRegistration 
     {

@@ -2,13 +2,13 @@
 using System.Web.Mvc;
 using Abp.Configuration;
 using Abp.Web.Mvc.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Profile;
-using MyCompanyName.AbpZeroTemplate.Timing;
-using MyCompanyName.AbpZeroTemplate.Timing.Dto;
-using MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Profile;
-using MyCompanyName.AbpZeroTemplate.Web.Controllers;
+using xtWork.Template.Authorization.Users.Profile;
+using xtWork.Template.Timing;
+using xtWork.Template.Timing.Dto;
+using xtWork.Template.Web.Areas.Mpa.Models.Profile;
+using xtWork.Template.Web.Controllers;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Controllers
+namespace xtWork.Template.Web.Areas.Mpa.Controllers
 {
     [AbpMvcAuthorize]
     public class ProfileController : AbpZeroTemplateControllerBase

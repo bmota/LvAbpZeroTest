@@ -1,6 +1,6 @@
 ﻿using Abp;
 
-namespace MyCompanyName.AbpZeroTemplate.Friendships.Cache
+namespace xtWork.Template.Friendships.Cache
 {
     public interface IUserFriendsCache
     {

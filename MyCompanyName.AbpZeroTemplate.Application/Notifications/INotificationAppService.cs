@@ -2,9 +2,9 @@
 using System.Threading.Tasks;
 using Abp.Application.Services;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.Notifications.Dto;
+using xtWork.Template.Notifications.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Notifications
+namespace xtWork.Template.Notifications
 {
     public interface INotificationAppService : IApplicationService
     {

@@ -2,13 +2,13 @@
 using System.Linq;
 using System.Threading.Tasks;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.Editions;
-using MyCompanyName.AbpZeroTemplate.Editions.Dto;
-using MyCompanyName.AbpZeroTemplate.Features;
+using xtWork.Template.Editions;
+using xtWork.Template.Editions.Dto;
+using xtWork.Template.Features;
 using Shouldly;
 using Xunit;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.Editions
+namespace xtWork.Template.Tests.Editions
 {
     public class EditionAppService_Tests : AppTestBase
     {

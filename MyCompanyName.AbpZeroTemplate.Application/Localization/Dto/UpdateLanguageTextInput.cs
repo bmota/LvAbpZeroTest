@@ -2,7 +2,7 @@
 using Abp.Application.Services.Dto;
 using Abp.Localization;
 
-namespace MyCompanyName.AbpZeroTemplate.Localization.Dto
+namespace xtWork.Template.Localization.Dto
 {
     public class UpdateLanguageTextInput
     {

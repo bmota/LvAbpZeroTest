@@ -1,7 +1,7 @@
 using Abp.AutoMapper;
 using Abp.Notifications;
 
-namespace MyCompanyName.AbpZeroTemplate.Notifications.Dto
+namespace xtWork.Template.Notifications.Dto
 {
     [AutoMapFrom(typeof(NotificationDefinition))]
     public class NotificationSubscriptionWithDisplayNameDto : NotificationSubscriptionDto

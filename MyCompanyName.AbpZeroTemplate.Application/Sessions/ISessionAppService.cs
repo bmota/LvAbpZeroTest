@@ -1,8 +1,8 @@
 ﻿using System.Threading.Tasks;
 using Abp.Application.Services;
-using MyCompanyName.AbpZeroTemplate.Sessions.Dto;
+using xtWork.Template.Sessions.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Sessions
+namespace xtWork.Template.Sessions
 {
     public interface ISessionAppService : IApplicationService
     {

@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using Newtonsoft.Json;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Auth
+namespace xtWork.Template.Web.Auth
 {
     //Get method Taken from: http://stackoverflow.com/questions/36330675/get-users-email-from-twitter-api-for-external-login-authentication-asp-net-mvc
     public class TwitterEmailRetriever

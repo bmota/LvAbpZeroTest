@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace MyCompanyName.AbpZeroTemplate.Friendships.Cache
+namespace xtWork.Template.Friendships.Cache
 {
     public class UserWithFriendsCacheItem
     {

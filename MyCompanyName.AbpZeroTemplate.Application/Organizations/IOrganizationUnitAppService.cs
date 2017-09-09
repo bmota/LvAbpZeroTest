@@ -1,9 +1,9 @@
 ﻿using System.Threading.Tasks;
 using Abp.Application.Services;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.Organizations.Dto;
+using xtWork.Template.Organizations.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Organizations
+namespace xtWork.Template.Organizations
 {
     public interface IOrganizationUnitAppService : IApplicationService
     {

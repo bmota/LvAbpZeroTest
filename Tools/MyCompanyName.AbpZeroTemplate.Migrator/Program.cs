@@ -5,7 +5,7 @@ using Abp.Collections.Extensions;
 using Abp.Dependency;
 using Castle.Facilities.Logging;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrator
+namespace xtWork.Template.Migrator
 {
     public class Program
     {

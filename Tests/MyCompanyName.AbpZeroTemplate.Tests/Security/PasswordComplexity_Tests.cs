@@ -1,8 +1,8 @@
-﻿using MyCompanyName.AbpZeroTemplate.Security;
+﻿using xtWork.Template.Security;
 using Shouldly;
 using Xunit;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.Security
+namespace xtWork.Template.Tests.Security
 {
     public class PasswordComplexity_Tests
     {

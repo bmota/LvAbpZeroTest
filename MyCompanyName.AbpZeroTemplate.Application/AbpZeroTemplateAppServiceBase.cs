@@ -5,10 +5,10 @@ using Abp.IdentityFramework;
 using Abp.MultiTenancy;
 using Abp.Runtime.Session;
 using Microsoft.AspNet.Identity;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.MultiTenancy;
 
-namespace MyCompanyName.AbpZeroTemplate
+namespace xtWork.Template
 {
     /// <summary>
     /// All application services in this application is derived from this class.

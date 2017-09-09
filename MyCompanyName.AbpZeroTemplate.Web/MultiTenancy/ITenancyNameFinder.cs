@@ -1,4 +1,4 @@
-namespace MyCompanyName.AbpZeroTemplate.Web.MultiTenancy
+namespace xtWork.Template.Web.MultiTenancy
 {
     public interface ITenancyNameFinder
     {

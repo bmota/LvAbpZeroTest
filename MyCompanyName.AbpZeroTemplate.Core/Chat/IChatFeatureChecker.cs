@@ -1,4 +1,4 @@
-﻿namespace MyCompanyName.AbpZeroTemplate.Chat
+﻿namespace xtWork.Template.Chat
 {
     public interface IChatFeatureChecker
     {

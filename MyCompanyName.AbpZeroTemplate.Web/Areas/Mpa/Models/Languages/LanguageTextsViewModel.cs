@@ -2,7 +2,7 @@
 using System.Web.Mvc;
 using Abp.Localization;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Languages
+namespace xtWork.Template.Web.Areas.Mpa.Models.Languages
 {
     public class LanguageTextsViewModel
     {

@@ -2,13 +2,13 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text.RegularExpressions;
 using Abp.Auditing;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
-using MyCompanyName.AbpZeroTemplate.Security;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.MultiTenancy;
+using xtWork.Template.Security;
 using Abp.Extensions;
-using MyCompanyName.AbpZeroTemplate.Validation;
+using xtWork.Template.Validation;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Models.Account
+namespace xtWork.Template.Web.Models.Account
 {
     public class RegisterViewModel : IValidatableObject
     {

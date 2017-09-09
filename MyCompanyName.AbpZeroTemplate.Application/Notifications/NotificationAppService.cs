@@ -9,9 +9,9 @@ using Abp.AutoMapper;
 using Abp.Configuration;
 using Abp.Notifications;
 using Abp.Runtime.Session;
-using MyCompanyName.AbpZeroTemplate.Notifications.Dto;
+using xtWork.Template.Notifications.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Notifications
+namespace xtWork.Template.Notifications
 {
     [AbpAuthorize]
     public class NotificationAppService : AbpZeroTemplateAppServiceBase, INotificationAppService

@@ -15,15 +15,15 @@ using Abp.TestBase;
 using Castle.MicroKernel.Registration;
 using Effort;
 using EntityFramework.DynamicFilters;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.EntityFramework;
-using MyCompanyName.AbpZeroTemplate.Migrations.Seed.Host;
-using MyCompanyName.AbpZeroTemplate.Migrations.Seed.Tenants;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
-using MyCompanyName.AbpZeroTemplate.Tests.TestDatas;
+using xtWork.Template.Authorization.Roles;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.EntityFramework;
+using xtWork.Template.Migrations.Seed.Host;
+using xtWork.Template.Migrations.Seed.Tenants;
+using xtWork.Template.MultiTenancy;
+using xtWork.Template.Tests.TestDatas;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests
+namespace xtWork.Template.Tests
 {
     /// <summary>
     /// This is base class for all our test classes.

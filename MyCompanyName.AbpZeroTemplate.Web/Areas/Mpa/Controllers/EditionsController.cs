@@ -2,12 +2,12 @@
 using System.Web.Mvc;
 using Abp.Application.Services.Dto;
 using Abp.Web.Mvc.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Editions;
-using MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Editions;
-using MyCompanyName.AbpZeroTemplate.Web.Controllers;
+using xtWork.Template.Authorization;
+using xtWork.Template.Editions;
+using xtWork.Template.Web.Areas.Mpa.Models.Editions;
+using xtWork.Template.Web.Controllers;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Controllers
+namespace xtWork.Template.Web.Areas.Mpa.Controllers
 {
     [AbpMvcAuthorize(AppPermissions.Pages_Editions)]
     public class EditionsController : AbpZeroTemplateControllerBase

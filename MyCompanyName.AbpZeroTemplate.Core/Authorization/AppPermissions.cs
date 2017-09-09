@@ -1,4 +1,4 @@
-﻿namespace MyCompanyName.AbpZeroTemplate.Authorization
+﻿namespace xtWork.Template.Authorization
 {
     /// <summary>
     /// Defines string constants for application's permission names.

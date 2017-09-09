@@ -4,10 +4,10 @@ using Abp.Events.Bus.Entities;
 using Abp.MultiTenancy;
 using Abp.Zero.EntityFramework;
 using EntityFramework.DynamicFilters;
-using MyCompanyName.AbpZeroTemplate.Migrations.Seed.Host;
-using MyCompanyName.AbpZeroTemplate.Migrations.Seed.Tenants;
+using xtWork.Template.Migrations.Seed.Host;
+using xtWork.Template.Migrations.Seed.Tenants;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrations
+namespace xtWork.Template.Migrations
 {
     public sealed class Configuration : DbMigrationsConfiguration<EntityFramework.AbpZeroTemplateDbContext>, IMultiTenantSeed
     {

@@ -1,4 +1,4 @@
-﻿namespace MyCompanyName.AbpZeroTemplate.Sessions.Dto
+﻿namespace xtWork.Template.Sessions.Dto
 {
     public class GetCurrentLoginInformationsOutput
     {

@@ -1,7 +1,7 @@
 ﻿using Abp.MultiTenancy;
 using Abp.Zero.Configuration;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Roles
+namespace xtWork.Template.Authorization.Roles
 {
     public static class AppRoleConfig
     {

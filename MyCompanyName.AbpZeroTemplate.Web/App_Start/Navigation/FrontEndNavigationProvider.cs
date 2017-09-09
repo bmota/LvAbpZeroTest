@@ -1,7 +1,7 @@
 ﻿using Abp.Application.Navigation;
 using Abp.Localization;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Navigation
+namespace xtWork.Template.Web.Navigation
 {
     /// <summary>
     /// This class defines font-end web site's menu.

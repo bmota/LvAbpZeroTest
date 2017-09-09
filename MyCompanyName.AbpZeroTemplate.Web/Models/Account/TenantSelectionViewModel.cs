@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using Abp.AutoMapper;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
+using xtWork.Template.MultiTenancy;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Models.Account
+namespace xtWork.Template.Web.Models.Account
 {
     public class TenantSelectionViewModel
     {

@@ -1,4 +1,4 @@
-namespace MyCompanyName.AbpZeroTemplate.Web.Navigation
+namespace xtWork.Template.Web.Navigation
 {
     public static class PageNames
     {

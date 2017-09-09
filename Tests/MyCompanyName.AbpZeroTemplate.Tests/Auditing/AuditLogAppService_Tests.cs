@@ -5,13 +5,13 @@ using Abp.Auditing;
 using Abp.Localization;
 using Abp.Timing;
 using Abp.Zero;
-using MyCompanyName.AbpZeroTemplate.Auditing;
-using MyCompanyName.AbpZeroTemplate.Auditing.Dto;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
+using xtWork.Template.Auditing;
+using xtWork.Template.Auditing.Dto;
+using xtWork.Template.Authorization.Users;
 using Shouldly;
 using Xunit;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.Auditing
+namespace xtWork.Template.Tests.Auditing
 {
     public class AuditLogAppService_Tests : AppTestBase
     {

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MyCompanyName.AbpZeroTemplate.Notifications.Dto
+namespace xtWork.Template.Notifications.Dto
 {
     public class UpdateNotificationSettingsInput
     {

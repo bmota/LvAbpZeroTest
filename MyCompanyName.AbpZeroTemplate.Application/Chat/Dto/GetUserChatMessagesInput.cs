@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace MyCompanyName.AbpZeroTemplate.Chat.Dto
+namespace xtWork.Template.Chat.Dto
 {
     public class GetUserChatMessagesInput
     {

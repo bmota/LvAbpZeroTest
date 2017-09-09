@@ -1,8 +1,8 @@
 ﻿using System.Threading.Tasks;
 using Abp.Application.Services;
-using MyCompanyName.AbpZeroTemplate.Friendships.Dto;
+using xtWork.Template.Friendships.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Friendships
+namespace xtWork.Template.Friendships
 {
     public interface IFriendshipAppService : IApplicationService
     {

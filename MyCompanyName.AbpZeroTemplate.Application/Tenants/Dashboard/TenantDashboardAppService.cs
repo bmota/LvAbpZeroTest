@@ -1,10 +1,10 @@
 ﻿using System.Linq;
 using Abp;
 using Abp.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Tenants.Dashboard.Dto;
+using xtWork.Template.Authorization;
+using xtWork.Template.Tenants.Dashboard.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Tenants.Dashboard
+namespace xtWork.Template.Tenants.Dashboard
 {
     [AbpAuthorize(AppPermissions.Pages_Tenant_Dashboard)]
     public class TenantDashboardAppService : AbpZeroTemplateAppServiceBase, ITenantDashboardAppService

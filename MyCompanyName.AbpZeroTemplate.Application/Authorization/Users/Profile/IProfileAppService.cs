@@ -1,8 +1,8 @@
 ﻿using System.Threading.Tasks;
 using Abp.Application.Services;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Profile.Dto;
+using xtWork.Template.Authorization.Users.Profile.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users.Profile
+namespace xtWork.Template.Authorization.Users.Profile
 {
     public interface IProfileAppService : IApplicationService
     {

@@ -1,7 +1,7 @@
 ﻿using System.Text.RegularExpressions;
 using Abp.Extensions;
 
-namespace MyCompanyName.AbpZeroTemplate.Security
+namespace xtWork.Template.Security
 {
     public class PasswordComplexityChecker
     {

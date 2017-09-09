@@ -5,12 +5,12 @@ using Abp.Dependency;
 using Abp.RealTime;
 using Castle.Core.Logging;
 using Microsoft.AspNet.SignalR;
-using MyCompanyName.AbpZeroTemplate.Chat;
-using MyCompanyName.AbpZeroTemplate.Chat.Dto;
-using MyCompanyName.AbpZeroTemplate.Friendships;
-using MyCompanyName.AbpZeroTemplate.Friendships.Dto;
+using xtWork.Template.Chat;
+using xtWork.Template.Chat.Dto;
+using xtWork.Template.Friendships;
+using xtWork.Template.Friendships.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Chat.SignalR
+namespace xtWork.Template.Web.Chat.SignalR
 {
     public class SignalRChatCommunicator : IChatCommunicator, ITransientDependency
     {

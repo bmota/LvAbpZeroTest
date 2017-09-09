@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Web.Optimization;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Bundling
+namespace xtWork.Template.Web.Bundling
 {
     public class AsIsBundleOrderer : IBundleOrderer
     {

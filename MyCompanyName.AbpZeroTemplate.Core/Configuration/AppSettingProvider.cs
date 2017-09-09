@@ -3,9 +3,9 @@ using System.Configuration;
 using Abp.Configuration;
 using Abp.Json;
 using Abp.Zero.Configuration;
-using MyCompanyName.AbpZeroTemplate.Security;
+using xtWork.Template.Security;
 
-namespace MyCompanyName.AbpZeroTemplate.Configuration
+namespace xtWork.Template.Configuration
 {
     /// <summary>
     /// Defines settings for the application.

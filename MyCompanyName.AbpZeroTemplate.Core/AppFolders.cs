@@ -1,6 +1,6 @@
 ﻿using Abp.Dependency;
 
-namespace MyCompanyName.AbpZeroTemplate
+namespace xtWork.Template
 {
     public class AppFolders : IAppFolders, ISingletonDependency
     {

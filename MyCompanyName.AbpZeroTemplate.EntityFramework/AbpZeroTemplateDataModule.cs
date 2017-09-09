@@ -2,9 +2,9 @@
 using System.Reflection;
 using Abp.Modules;
 using Abp.Zero.EntityFramework;
-using MyCompanyName.AbpZeroTemplate.EntityFramework;
+using xtWork.Template.EntityFramework;
 
-namespace MyCompanyName.AbpZeroTemplate
+namespace xtWork.Template
 {
     /// <summary>
     /// Entity framework module of the application.

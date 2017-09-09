@@ -7,9 +7,9 @@ using Abp.Domain.Uow;
 using Abp.Extensions;
 using Abp.MultiTenancy;
 using Abp.Runtime.Security;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
+using xtWork.Template.MultiTenancy;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrator
+namespace xtWork.Template.Migrator
 {
     public class MultiTenantMigrateExecuter : ITransientDependency
     {

@@ -11,12 +11,12 @@ using Abp.Domain.Uow;
 using Abp.Extensions;
 using Abp.Linq.Extensions;
 using Abp.Runtime.Security;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Editions.Dto;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy.Dto;
+using xtWork.Template.Authorization;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.Editions.Dto;
+using xtWork.Template.MultiTenancy.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.MultiTenancy
+namespace xtWork.Template.MultiTenancy
 {
     [AbpAuthorize(AppPermissions.Pages_Tenants)]
     public class TenantAppService : AbpZeroTemplateAppServiceBase, ITenantAppService

@@ -1,9 +1,9 @@
 ﻿using Abp.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
+using xtWork.Template.Authorization.Roles;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.MultiTenancy;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization
+namespace xtWork.Template.Authorization
 {
     /// <summary>
     /// Implements <see cref="PermissionChecker"/>.

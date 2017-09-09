@@ -2,7 +2,7 @@
 using Abp.Extensions;
 using System.Linq;
 
-namespace MyCompanyName.AbpZeroTemplate.Auditing
+namespace xtWork.Template.Auditing
 {
     public class NamespaceStripper : INamespaceStripper, ITransientDependency
     {

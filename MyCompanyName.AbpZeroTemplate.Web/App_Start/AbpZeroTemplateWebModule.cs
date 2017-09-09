@@ -17,14 +17,14 @@ using Abp.Zero.Configuration;
 using Castle.MicroKernel.Registration;
 using Hangfire;
 using Microsoft.Owin.Security;
-using MyCompanyName.AbpZeroTemplate.Web.App.Startup;//SPA!
-using MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Startup;//MPA!
-using MyCompanyName.AbpZeroTemplate.Web.Bundling;
-using MyCompanyName.AbpZeroTemplate.Web.Navigation;
-using MyCompanyName.AbpZeroTemplate.Web.Routing;
-using MyCompanyName.AbpZeroTemplate.WebApi;
+using xtWork.Template.Web.App.Startup;//SPA!
+using xtWork.Template.Web.Areas.Mpa.Startup;//MPA!
+using xtWork.Template.Web.Bundling;
+using xtWork.Template.Web.Navigation;
+using xtWork.Template.Web.Routing;
+using xtWork.Template.WebApi;
 
-namespace MyCompanyName.AbpZeroTemplate.Web
+namespace xtWork.Template.Web
 {
     /// <summary>
     /// Web module of the application.

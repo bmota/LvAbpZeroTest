@@ -9,13 +9,13 @@ using Abp.Dependency;
 using Abp.Domain.Repositories;
 using Abp.Organizations;
 using Microsoft.AspNet.Identity;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Chat;
-using MyCompanyName.AbpZeroTemplate.Friendships;
-using MyCompanyName.AbpZeroTemplate.Storage;
+using xtWork.Template.Authorization.Roles;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.Chat;
+using xtWork.Template.Friendships;
+using xtWork.Template.Storage;
 
-namespace MyCompanyName.AbpZeroTemplate.MultiTenancy.Demo
+namespace xtWork.Template.MultiTenancy.Demo
 {
     /// <summary>
     /// Used to build demo data for new tenants.

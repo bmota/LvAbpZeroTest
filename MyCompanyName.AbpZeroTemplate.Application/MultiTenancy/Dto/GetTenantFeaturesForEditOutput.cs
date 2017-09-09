@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.Editions.Dto;
+using xtWork.Template.Editions.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.MultiTenancy.Dto
+namespace xtWork.Template.MultiTenancy.Dto
 {
     public class GetTenantFeaturesForEditOutput
     {

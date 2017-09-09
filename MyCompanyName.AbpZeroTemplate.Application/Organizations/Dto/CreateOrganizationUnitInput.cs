@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using Abp.Organizations;
 
-namespace MyCompanyName.AbpZeroTemplate.Organizations.Dto
+namespace xtWork.Template.Organizations.Dto
 {
     public class CreateOrganizationUnitInput
     {

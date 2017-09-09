@@ -1,4 +1,4 @@
-﻿namespace MyCompanyName.AbpZeroTemplate
+﻿namespace xtWork.Template
 {
     /// <summary>
     /// Some consts used in the application.

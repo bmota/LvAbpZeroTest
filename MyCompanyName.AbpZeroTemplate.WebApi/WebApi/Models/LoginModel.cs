@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace MyCompanyName.AbpZeroTemplate.WebApi.Models
+namespace xtWork.Template.WebApi.Models
 {
     public class LoginModel
     {

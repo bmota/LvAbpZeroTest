@@ -7,11 +7,11 @@ using Abp.Domain.Uow;
 using Abp.MultiTenancy;
 using Abp.RealTime;
 using Abp.UI;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Friendships;
-using MyCompanyName.AbpZeroTemplate.Friendships.Cache;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.Friendships;
+using xtWork.Template.Friendships.Cache;
 
-namespace MyCompanyName.AbpZeroTemplate.Chat
+namespace xtWork.Template.Chat
 {
     [AbpAuthorize]
     public class ChatMessageManager : AbpZeroTemplateDomainServiceBase, IChatMessageManager

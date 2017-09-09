@@ -6,7 +6,7 @@ using Abp.Zero.Configuration;
 using Castle.MicroKernel.Registration;
 using NSubstitute;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests
+namespace xtWork.Template.Tests
 {
     [DependsOn(
         typeof(AbpZeroTemplateApplicationModule),

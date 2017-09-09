@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Abp.Application.Services.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Roles
+namespace xtWork.Template.Web.Areas.Mpa.Models.Roles
 {
     public class RoleListViewModel
     {

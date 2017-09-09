@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto
+namespace xtWork.Template.Authorization.Users.Dto
 {
     public class CreateOrUpdateUserInput
     {

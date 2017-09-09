@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using Abp.Application.Services.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Friendships.Dto
+namespace xtWork.Template.Friendships.Dto
 {
     public class CreateFriendshipRequestInput
     {

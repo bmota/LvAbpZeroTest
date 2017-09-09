@@ -1,9 +1,9 @@
 ﻿using System.Threading.Tasks;
 using Abp.Application.Services;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.Chat.Dto;
+using xtWork.Template.Chat.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Chat
+namespace xtWork.Template.Chat
 {
     public interface IChatAppService : IApplicationService
     {

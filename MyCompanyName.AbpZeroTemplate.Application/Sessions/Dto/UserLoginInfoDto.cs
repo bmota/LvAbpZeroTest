@@ -1,8 +1,8 @@
 ﻿using Abp.Application.Services.Dto;
 using Abp.AutoMapper;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
+using xtWork.Template.Authorization.Users;
 
-namespace MyCompanyName.AbpZeroTemplate.Sessions.Dto
+namespace xtWork.Template.Sessions.Dto
 {
     [AutoMapFrom(typeof(User))]
     public class UserLoginInfoDto : EntityDto<long>

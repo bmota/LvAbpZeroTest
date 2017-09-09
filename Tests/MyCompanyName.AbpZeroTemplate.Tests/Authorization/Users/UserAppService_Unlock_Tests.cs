@@ -2,13 +2,13 @@
 using Abp.Application.Services.Dto;
 using Abp.Authorization;
 using Abp.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
+using xtWork.Template.Authorization;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.MultiTenancy;
 using Shouldly;
 using Xunit;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.Authorization.Users
+namespace xtWork.Template.Tests.Authorization.Users
 {
     public class UserAppService_Unlock_Tests : UserAppServiceTestBase
     {

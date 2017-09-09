@@ -2,9 +2,9 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using Abp.Extensions;
 using Abp.Runtime.Validation;
-using MyCompanyName.AbpZeroTemplate.Configuration.Host.Dto;
+using xtWork.Template.Configuration.Host.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Configuration.Tenants.Dto
+namespace xtWork.Template.Configuration.Tenants.Dto
 {
     public class TenantSettingsEditDto
     {

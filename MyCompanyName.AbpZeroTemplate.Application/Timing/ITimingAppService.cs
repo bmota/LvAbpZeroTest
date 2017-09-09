@@ -2,9 +2,9 @@
 using System.Threading.Tasks;
 using Abp.Application.Services;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.Timing.Dto;
+using xtWork.Template.Timing.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Timing
+namespace xtWork.Template.Timing
 {
     public interface ITimingAppService : IApplicationService
     {

@@ -1,6 +1,6 @@
-﻿using MyCompanyName.AbpZeroTemplate.EntityFramework;
+﻿using xtWork.Template.EntityFramework;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrations.Seed.Host
+namespace xtWork.Template.Migrations.Seed.Host
 {
     public class InitialHostDbBuilder
     {

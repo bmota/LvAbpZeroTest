@@ -1,9 +1,9 @@
 ﻿using Abp.Authorization.Roles;
 using Abp.Authorization.Users;
 using Abp.Domain.Repositories;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
+using xtWork.Template.Authorization.Users;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Roles
+namespace xtWork.Template.Authorization.Roles
 {
     public class RoleStore : AbpRoleStore<Role, User>
     {

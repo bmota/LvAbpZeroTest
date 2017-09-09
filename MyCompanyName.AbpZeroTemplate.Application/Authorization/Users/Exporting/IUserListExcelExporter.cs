@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto;
-using MyCompanyName.AbpZeroTemplate.Dto;
+using xtWork.Template.Authorization.Users.Dto;
+using xtWork.Template.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users.Exporting
+namespace xtWork.Template.Authorization.Users.Exporting
 {
     public interface IUserListExcelExporter
     {

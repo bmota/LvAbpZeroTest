@@ -1,9 +1,9 @@
 ﻿using System.Threading.Tasks;
 using Abp.Application.Services;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy.Dto;
+using xtWork.Template.MultiTenancy.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.MultiTenancy
+namespace xtWork.Template.MultiTenancy
 {
     public interface ITenantAppService : IApplicationService
     {

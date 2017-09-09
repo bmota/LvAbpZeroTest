@@ -1,4 +1,4 @@
-﻿namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.OrganizationUnits
+﻿namespace xtWork.Template.Web.Areas.Mpa.Models.OrganizationUnits
 {
     public class CreateOrganizationUnitModalViewModel
     {

@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy.Dto;
+using xtWork.Template.MultiTenancy.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Tenants
+namespace xtWork.Template.Web.Areas.Mpa.Models.Tenants
 {
     public class EditTenantViewModel
     {

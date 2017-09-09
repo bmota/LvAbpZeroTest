@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MyCompanyName.AbpZeroTemplate.Chat.Dto
+namespace xtWork.Template.Chat.Dto
 {
     public class ChatUserWithMessagesDto : ChatUserDto
     {

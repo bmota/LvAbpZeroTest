@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using Abp.Application.Navigation;
 using Abp.Localization;
-using MyCompanyName.AbpZeroTemplate.Sessions.Dto;
+using xtWork.Template.Sessions.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Models.Layout
+namespace xtWork.Template.Web.Models.Layout
 {
     public class HeaderViewModel
     {

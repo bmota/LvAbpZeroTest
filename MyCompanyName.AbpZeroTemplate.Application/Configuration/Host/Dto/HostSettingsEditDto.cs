@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace MyCompanyName.AbpZeroTemplate.Configuration.Host.Dto
+namespace xtWork.Template.Configuration.Host.Dto
 {
     public class HostSettingsEditDto
     {

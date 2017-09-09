@@ -2,7 +2,7 @@
 using Abp.Runtime.Session;
 using Abp.Web.Mvc.Views;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Views
+namespace xtWork.Template.Web.Views
 {
     public abstract class AbpZeroTemplateWebViewPageBase : AbpZeroTemplateWebViewPageBase<dynamic>
     {

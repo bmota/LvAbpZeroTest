@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using Abp.Application.Services.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Editions.Dto
+namespace xtWork.Template.Editions.Dto
 {
     public class CreateOrUpdateEditionDto
     {

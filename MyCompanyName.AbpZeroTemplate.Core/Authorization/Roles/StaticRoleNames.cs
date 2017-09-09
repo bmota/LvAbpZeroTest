@@ -1,4 +1,4 @@
-﻿namespace MyCompanyName.AbpZeroTemplate.Authorization.Roles
+﻿namespace xtWork.Template.Authorization.Roles
 {
     public static class StaticRoleNames
     {

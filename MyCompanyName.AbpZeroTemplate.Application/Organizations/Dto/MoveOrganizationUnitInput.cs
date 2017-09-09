@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace MyCompanyName.AbpZeroTemplate.Organizations.Dto
+namespace xtWork.Template.Organizations.Dto
 {
     public class MoveOrganizationUnitInput
     {

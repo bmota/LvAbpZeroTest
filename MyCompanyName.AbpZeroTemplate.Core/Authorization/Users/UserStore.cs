@@ -1,9 +1,9 @@
 ﻿using Abp.Authorization.Users;
 using Abp.Domain.Repositories;
 using Abp.Domain.Uow;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles;
+using xtWork.Template.Authorization.Roles;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users
+namespace xtWork.Template.Authorization.Users
 {
     /// <summary>
     /// Used to perform database operations for <see cref="UserManager"/>.

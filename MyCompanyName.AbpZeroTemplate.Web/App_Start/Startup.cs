@@ -14,15 +14,15 @@ using Microsoft.Owin.Security.Google;
 using Microsoft.Owin.Security.OpenIdConnect;
 using Microsoft.Owin.Security.Twitter;
 using Microsoft.Owin.Security.WsFederation;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Web;
-using MyCompanyName.AbpZeroTemplate.Web.Auth;
-using MyCompanyName.AbpZeroTemplate.WebApi.Controllers;
+using xtWork.Template.Authorization;
+using xtWork.Template.Web;
+using xtWork.Template.Web.Auth;
+using xtWork.Template.WebApi.Controllers;
 using Owin;
 
 [assembly: OwinStartup(typeof(Startup))]
 
-namespace MyCompanyName.AbpZeroTemplate.Web
+namespace xtWork.Template.Web
 {
     public class Startup
     {

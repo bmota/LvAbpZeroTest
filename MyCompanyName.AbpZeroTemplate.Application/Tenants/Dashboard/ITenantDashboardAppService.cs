@@ -1,7 +1,7 @@
 ﻿using Abp.Application.Services;
-using MyCompanyName.AbpZeroTemplate.Tenants.Dashboard.Dto;
+using xtWork.Template.Tenants.Dashboard.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Tenants.Dashboard
+namespace xtWork.Template.Tenants.Dashboard
 {
     public interface ITenantDashboardAppService : IApplicationService
     {

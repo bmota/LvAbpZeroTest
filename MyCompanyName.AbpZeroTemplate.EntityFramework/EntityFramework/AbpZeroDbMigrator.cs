@@ -3,7 +3,7 @@ using Abp.Domain.Uow;
 using Abp.MultiTenancy;
 using Abp.Zero.EntityFramework;
 
-namespace MyCompanyName.AbpZeroTemplate.EntityFramework
+namespace xtWork.Template.EntityFramework
 {
     public class AbpZeroDbMigrator : AbpZeroDbMigrator<AbpZeroTemplateDbContext, Migrations.Configuration>
     {

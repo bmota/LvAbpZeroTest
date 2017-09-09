@@ -3,7 +3,7 @@ using Abp.Localization;
 using Abp.Runtime.Validation;
 using Abp.UI.Inputs;
 
-namespace MyCompanyName.AbpZeroTemplate.Features
+namespace xtWork.Template.Features
 {
     /* This feature provider is just for an example.
      * You can freely delete all features and add your own.

@@ -1,4 +1,4 @@
-﻿namespace MyCompanyName.AbpZeroTemplate.Emailing
+﻿namespace xtWork.Template.Emailing
 {
     public interface IEmailTemplateProvider
     {

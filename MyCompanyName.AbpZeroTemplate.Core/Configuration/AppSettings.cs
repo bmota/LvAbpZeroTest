@@ -1,4 +1,4 @@
-namespace MyCompanyName.AbpZeroTemplate.Configuration
+namespace xtWork.Template.Configuration
 {
     /// <summary>
     /// Defines string constants for setting names in the application.

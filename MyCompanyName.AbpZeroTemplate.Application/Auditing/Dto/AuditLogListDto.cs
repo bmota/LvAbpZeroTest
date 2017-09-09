@@ -3,7 +3,7 @@ using Abp.Application.Services.Dto;
 using Abp.Auditing;
 using Abp.AutoMapper;
 
-namespace MyCompanyName.AbpZeroTemplate.Auditing.Dto
+namespace xtWork.Template.Auditing.Dto
 {
     [AutoMapFrom(typeof(AuditLog))]
     public class AuditLogListDto : EntityDto<long>

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MyCompanyName.AbpZeroTemplate.Logging.Dto
+namespace xtWork.Template.Logging.Dto
 {
     public class GetLatestWebLogsOutput
     {

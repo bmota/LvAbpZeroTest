@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Models.Layout
+namespace xtWork.Template.Web.Models.Layout
 {
     public class TenantCustomCssViewModel
     {

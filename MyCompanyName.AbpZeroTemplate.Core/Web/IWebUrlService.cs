@@ -1,4 +1,4 @@
-﻿namespace MyCompanyName.AbpZeroTemplate.Web
+﻿namespace xtWork.Template.Web
 {
     public interface IWebUrlService
     {

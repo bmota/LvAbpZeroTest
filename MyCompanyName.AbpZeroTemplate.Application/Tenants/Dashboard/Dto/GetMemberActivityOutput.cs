@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MyCompanyName.AbpZeroTemplate.Tenants.Dashboard.Dto
+namespace xtWork.Template.Tenants.Dashboard.Dto
 {
     public class GetMemberActivityOutput
     {

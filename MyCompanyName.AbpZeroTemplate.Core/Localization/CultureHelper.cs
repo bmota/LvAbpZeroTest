@@ -1,6 +1,6 @@
 ﻿using System.Threading;
 
-namespace MyCompanyName.AbpZeroTemplate.Localization
+namespace xtWork.Template.Localization
 {
     public static class CultureHelper
     {

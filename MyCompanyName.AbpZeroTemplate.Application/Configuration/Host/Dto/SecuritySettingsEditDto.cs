@@ -1,6 +1,6 @@
-﻿using MyCompanyName.AbpZeroTemplate.Security;
+﻿using xtWork.Template.Security;
 
-namespace MyCompanyName.AbpZeroTemplate.Configuration.Host.Dto
+namespace xtWork.Template.Configuration.Host.Dto
 {
     public class SecuritySettingsEditDto
     {

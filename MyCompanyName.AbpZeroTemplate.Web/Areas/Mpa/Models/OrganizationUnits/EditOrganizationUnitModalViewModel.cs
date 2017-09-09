@@ -1,7 +1,7 @@
 ﻿using Abp.AutoMapper;
 using Abp.Organizations;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.OrganizationUnits
+namespace xtWork.Template.Web.Areas.Mpa.Models.OrganizationUnits
 {
     [AutoMapFrom(typeof(OrganizationUnit))]
     public class EditOrganizationUnitModalViewModel

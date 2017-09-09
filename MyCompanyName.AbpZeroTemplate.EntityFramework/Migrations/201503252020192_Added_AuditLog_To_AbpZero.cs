@@ -1,6 +1,6 @@
 using System.Data.Entity.Migrations;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrations
+namespace xtWork.Template.Migrations
 {
     public partial class Added_AuditLog_To_AbpZero : DbMigration
     {

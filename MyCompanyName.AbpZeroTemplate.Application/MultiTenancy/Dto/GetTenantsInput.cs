@@ -1,7 +1,7 @@
 ﻿using Abp.Runtime.Validation;
-using MyCompanyName.AbpZeroTemplate.Dto;
+using xtWork.Template.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.MultiTenancy.Dto
+namespace xtWork.Template.MultiTenancy.Dto
 {
     public class GetTenantsInput : PagedAndSortedInputDto, IShouldNormalize
     {

@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using Abp.Application.Services.Dto;
 using Castle.Components.DictionaryAdapter;
-using MyCompanyName.AbpZeroTemplate.Friendships.Dto;
+using xtWork.Template.Friendships.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Chat.Dto
+namespace xtWork.Template.Chat.Dto
 {
     public class GetUserChatFriendsWithSettingsOutput
     {

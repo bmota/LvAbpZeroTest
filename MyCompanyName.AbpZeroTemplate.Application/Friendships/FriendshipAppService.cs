@@ -7,11 +7,11 @@ using Abp.MultiTenancy;
 using Abp.RealTime;
 using Abp.Runtime.Session;
 using Abp.UI;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Chat;
-using MyCompanyName.AbpZeroTemplate.Friendships.Dto;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.Chat;
+using xtWork.Template.Friendships.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Friendships
+namespace xtWork.Template.Friendships
 {
     [AbpAuthorize]
     public class FriendshipAppService : AbpZeroTemplateAppServiceBase, IFriendshipAppService

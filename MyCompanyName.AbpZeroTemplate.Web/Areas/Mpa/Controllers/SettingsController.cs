@@ -5,14 +5,14 @@ using Abp.Configuration.Startup;
 using Abp.Runtime.Session;
 using Abp.Timing;
 using Abp.Web.Mvc.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Configuration.Tenants;
-using MyCompanyName.AbpZeroTemplate.Timing;
-using MyCompanyName.AbpZeroTemplate.Timing.Dto;
-using MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Settings;
-using MyCompanyName.AbpZeroTemplate.Web.Controllers;
+using xtWork.Template.Authorization;
+using xtWork.Template.Configuration.Tenants;
+using xtWork.Template.Timing;
+using xtWork.Template.Timing.Dto;
+using xtWork.Template.Web.Areas.Mpa.Models.Settings;
+using xtWork.Template.Web.Controllers;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Controllers
+namespace xtWork.Template.Web.Areas.Mpa.Controllers
 {
     [AbpMvcAuthorize(AppPermissions.Pages_Administration_Tenant_Settings)]
     public class SettingsController : AbpZeroTemplateControllerBase

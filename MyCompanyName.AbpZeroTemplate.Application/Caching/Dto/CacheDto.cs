@@ -1,6 +1,6 @@
 ﻿using Abp.Application.Services.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Caching.Dto
+namespace xtWork.Template.Caching.Dto
 {
     public class CacheDto
     {

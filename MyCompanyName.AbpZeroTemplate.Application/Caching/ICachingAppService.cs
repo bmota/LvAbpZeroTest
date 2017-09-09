@@ -1,9 +1,9 @@
 ﻿using System.Threading.Tasks;
 using Abp.Application.Services;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.Caching.Dto;
+using xtWork.Template.Caching.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Caching
+namespace xtWork.Template.Caching
 {
     public interface ICachingAppService : IApplicationService
     {

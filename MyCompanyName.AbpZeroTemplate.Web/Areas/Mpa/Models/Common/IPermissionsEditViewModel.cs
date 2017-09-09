@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using MyCompanyName.AbpZeroTemplate.Authorization.Permissions.Dto;
+using xtWork.Template.Authorization.Permissions.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Common
+namespace xtWork.Template.Web.Areas.Mpa.Models.Common
 {
     public interface IPermissionsEditViewModel
     {

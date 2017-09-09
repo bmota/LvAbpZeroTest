@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using Abp.AutoMapper;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Roles.Dto
+namespace xtWork.Template.Authorization.Roles.Dto
 {
     [AutoMap(typeof(Role))]
     public class RoleEditDto

@@ -4,7 +4,7 @@ using System.CodeDom.Compiler;
 using System.Data.Entity.Migrations.Infrastructure;
 using System.Resources;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrations
+namespace xtWork.Template.Migrations
 {
     [GeneratedCode("EntityFramework.Migrations", "6.1.3-40302")]
     public sealed partial class User_AndAuditLog_Data_Size_Changes : IMigrationMetadata

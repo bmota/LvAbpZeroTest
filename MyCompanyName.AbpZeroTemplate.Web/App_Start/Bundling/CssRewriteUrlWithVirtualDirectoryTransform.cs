@@ -2,7 +2,7 @@
 using System.Web.Optimization;
 using Abp.Extensions;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Bundling
+namespace xtWork.Template.Web.Bundling
 {
     public class CssRewriteUrlWithVirtualDirectoryTransform : IItemTransform
     {

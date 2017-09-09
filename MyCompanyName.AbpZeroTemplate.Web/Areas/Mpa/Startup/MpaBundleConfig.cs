@@ -1,7 +1,7 @@
 ﻿using System.Web.Optimization;
-using MyCompanyName.AbpZeroTemplate.Web.Bundling;
+using xtWork.Template.Web.Bundling;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Startup
+namespace xtWork.Template.Web.Areas.Mpa.Startup
 {
     public static class MpaBundleConfig
     {

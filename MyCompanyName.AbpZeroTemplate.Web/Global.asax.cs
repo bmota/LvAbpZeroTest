@@ -10,7 +10,7 @@ using Abp.Extensions;
 using Abp.Web;
 using Castle.Facilities.Logging;
 
-namespace MyCompanyName.AbpZeroTemplate.Web
+namespace xtWork.Template.Web
 {
     public class MvcApplication : AbpWebApplication<AbpZeroTemplateWebModule>
     {

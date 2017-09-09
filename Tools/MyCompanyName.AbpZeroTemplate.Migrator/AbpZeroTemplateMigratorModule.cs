@@ -3,9 +3,9 @@ using System.Reflection;
 using Abp.Events.Bus;
 using Abp.Modules;
 using Castle.MicroKernel.Registration;
-using MyCompanyName.AbpZeroTemplate.EntityFramework;
+using xtWork.Template.EntityFramework;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrator
+namespace xtWork.Template.Migrator
 {
     [DependsOn(typeof(AbpZeroTemplateDataModule))]
     public class AbpZeroTemplateMigratorModule : AbpModule

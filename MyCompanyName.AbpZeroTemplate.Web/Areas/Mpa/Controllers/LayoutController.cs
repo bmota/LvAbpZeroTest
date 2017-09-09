@@ -5,15 +5,15 @@ using Abp.Localization;
 using Abp.Runtime.Session;
 using Abp.Threading;
 using Abp.Web.Mvc.Authorization;
-using MyCompanyName.AbpZeroTemplate.Sessions;
-using MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Layout;
-using MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Startup;
-using MyCompanyName.AbpZeroTemplate.Web.Controllers;
-using MyCompanyName.AbpZeroTemplate.Web.Models.Layout;
-using MyCompanyName.AbpZeroTemplate.Web.Session;
-using HeaderViewModel = MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Layout.HeaderViewModel;
+using xtWork.Template.Sessions;
+using xtWork.Template.Web.Areas.Mpa.Models.Layout;
+using xtWork.Template.Web.Areas.Mpa.Startup;
+using xtWork.Template.Web.Controllers;
+using xtWork.Template.Web.Models.Layout;
+using xtWork.Template.Web.Session;
+using HeaderViewModel = xtWork.Template.Web.Areas.Mpa.Models.Layout.HeaderViewModel;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Controllers
+namespace xtWork.Template.Web.Areas.Mpa.Controllers
 {
     [AbpMvcAuthorize]
     public class LayoutController : AbpZeroTemplateControllerBase

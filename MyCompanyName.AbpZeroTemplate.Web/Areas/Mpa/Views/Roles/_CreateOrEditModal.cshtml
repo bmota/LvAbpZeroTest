@@ -1,6 +1,6 @@
 ﻿@using Abp.Extensions
-@using MyCompanyName.AbpZeroTemplate.Authorization.Roles
-@using MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Common.Modals
+@using xtWork.Template.Authorization.Roles
+@using xtWork.Template.Web.Areas.Mpa.Models.Common.Modals
 @model MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Roles.CreateOrEditRoleModalViewModel
 
 @Html.Partial("~/Areas/Mpa/Views/Common/Modals/_ModalHeader.cshtml", new ModalHeaderViewModel(Model.IsEditMode ? (L("EditRole") + ": " + Model.Role.DisplayName) : L("CreateNewRole")))

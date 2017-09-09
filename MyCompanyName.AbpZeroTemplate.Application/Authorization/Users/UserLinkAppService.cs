@@ -11,10 +11,10 @@ using Abp.Authorization.Users;
 using Abp.Domain.Repositories;
 using Abp.Runtime.Session;
 using Abp.UI;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
+using xtWork.Template.Authorization.Users.Dto;
+using xtWork.Template.MultiTenancy;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users
+namespace xtWork.Template.Authorization.Users
 {
     [AbpAuthorize]
     public class UserLinkAppService : AbpZeroTemplateAppServiceBase, IUserLinkAppService

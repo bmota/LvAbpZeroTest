@@ -5,10 +5,10 @@ using Abp.Application.Services.Dto;
 using Abp.Authorization;
 using Abp.Extensions;
 using Abp.Linq.Extensions;
-using MyCompanyName.AbpZeroTemplate.Common.Dto;
-using MyCompanyName.AbpZeroTemplate.Editions;
+using xtWork.Template.Common.Dto;
+using xtWork.Template.Editions;
 
-namespace MyCompanyName.AbpZeroTemplate.Common
+namespace xtWork.Template.Common
 {
     [AbpAuthorize]
     public class CommonLookupAppService : AbpZeroTemplateAppServiceBase, ICommonLookupAppService

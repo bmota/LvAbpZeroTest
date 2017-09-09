@@ -1,9 +1,9 @@
 ﻿using System.Threading.Tasks;
-using MyCompanyName.AbpZeroTemplate.Sessions;
+using xtWork.Template.Sessions;
 using Shouldly;
 using Xunit;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.Sessions
+namespace xtWork.Template.Tests.Sessions
 {
     public class SessionAppService_Tests : AppTestBase
     {

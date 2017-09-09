@@ -11,10 +11,10 @@ using Abp.Localization;
 using Abp.Organizations;
 using Abp.Runtime.Caching;
 using Abp.Threading;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles;
-using MyCompanyName.AbpZeroTemplate.Identity;
+using xtWork.Template.Authorization.Roles;
+using xtWork.Template.Identity;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users
+namespace xtWork.Template.Authorization.Users
 {
     /// <summary>
     /// User manager.

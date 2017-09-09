@@ -7,14 +7,14 @@ using Abp.Localization;
 using Abp.MultiTenancy;
 using Abp.Runtime.Session;
 using Abp.Threading;
-using MyCompanyName.AbpZeroTemplate.Configuration;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
-using MyCompanyName.AbpZeroTemplate.Web.Models.Layout;
-using MyCompanyName.AbpZeroTemplate.Web.MultiTenancy;
-using MyCompanyName.AbpZeroTemplate.Web.Navigation;
-using MyCompanyName.AbpZeroTemplate.Web.Session;
+using xtWork.Template.Configuration;
+using xtWork.Template.MultiTenancy;
+using xtWork.Template.Web.Models.Layout;
+using xtWork.Template.Web.MultiTenancy;
+using xtWork.Template.Web.Navigation;
+using xtWork.Template.Web.Session;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Controllers
+namespace xtWork.Template.Web.Controllers
 {
     /// <summary>
     /// Layout for 'front end' pages.

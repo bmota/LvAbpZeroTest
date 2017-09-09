@@ -1,7 +1,7 @@
 ﻿using Abp.Notifications;
-using MyCompanyName.AbpZeroTemplate.Dto;
+using xtWork.Template.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Notifications.Dto
+namespace xtWork.Template.Notifications.Dto
 {
     public class GetUserNotificationsInput : PagedInputDto
     {

@@ -1,6 +1,6 @@
 using System.Data.Entity.Migrations;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrations
+namespace xtWork.Template.Migrations
 {
     public partial class Create_Indexes_For_Module_Zero_Tables : DbMigration
     {

@@ -6,13 +6,13 @@ using Abp.Authorization;
 using Abp.IO;
 using ICSharpCode.SharpZipLib.Core;
 using ICSharpCode.SharpZipLib.Zip;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Dto;
-using MyCompanyName.AbpZeroTemplate.IO;
-using MyCompanyName.AbpZeroTemplate.Logging.Dto;
-using MyCompanyName.AbpZeroTemplate.Net.MimeTypes;
+using xtWork.Template.Authorization;
+using xtWork.Template.Dto;
+using xtWork.Template.IO;
+using xtWork.Template.Logging.Dto;
+using xtWork.Template.Net.MimeTypes;
 
-namespace MyCompanyName.AbpZeroTemplate.Logging
+namespace xtWork.Template.Logging
 {
     [AbpAuthorize(AppPermissions.Pages_Administration_Host_Maintenance)]
     public class WebLogAppService : AbpZeroTemplateAppServiceBase, IWebLogAppService

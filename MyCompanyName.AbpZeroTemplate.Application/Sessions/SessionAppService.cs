@@ -2,9 +2,9 @@
 using Abp.Auditing;
 using Abp.Authorization;
 using Abp.AutoMapper;
-using MyCompanyName.AbpZeroTemplate.Sessions.Dto;
+using xtWork.Template.Sessions.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Sessions
+namespace xtWork.Template.Sessions
 {
     [AbpAuthorize]
     public class SessionAppService : AbpZeroTemplateAppServiceBase, ISessionAppService

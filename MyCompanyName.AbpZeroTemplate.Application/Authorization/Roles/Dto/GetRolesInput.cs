@@ -1,6 +1,6 @@
 ﻿using Abp.Application.Services.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Roles.Dto
+namespace xtWork.Template.Authorization.Roles.Dto
 {
     public class GetRolesInput 
     {

@@ -1,8 +1,8 @@
 ﻿using System.Threading.Tasks;
 using Abp.Application.Services;
-using MyCompanyName.AbpZeroTemplate.Configuration.Host.Dto;
+using xtWork.Template.Configuration.Host.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Configuration.Host
+namespace xtWork.Template.Configuration.Host
 {
     public interface IHostSettingsAppService : IApplicationService
     {

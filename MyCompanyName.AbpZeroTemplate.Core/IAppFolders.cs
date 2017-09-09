@@ -1,4 +1,4 @@
-﻿namespace MyCompanyName.AbpZeroTemplate
+﻿namespace xtWork.Template
 {
     public interface IAppFolders
     {

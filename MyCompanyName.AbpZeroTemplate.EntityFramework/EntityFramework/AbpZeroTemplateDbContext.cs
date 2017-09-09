@@ -1,14 +1,14 @@
 ﻿using System.Data.Common;
 using System.Data.Entity;
 using Abp.Zero.EntityFramework;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Chat;
-using MyCompanyName.AbpZeroTemplate.Friendships;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
-using MyCompanyName.AbpZeroTemplate.Storage;
+using xtWork.Template.Authorization.Roles;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.Chat;
+using xtWork.Template.Friendships;
+using xtWork.Template.MultiTenancy;
+using xtWork.Template.Storage;
 
-namespace MyCompanyName.AbpZeroTemplate.EntityFramework
+namespace xtWork.Template.EntityFramework
 {
     /* Constructors of this DbContext is important and each one has it's own use case.
      * - Default constructor is used by EF tooling on design time.

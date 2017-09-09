@@ -1,4 +1,4 @@
-namespace MyCompanyName.AbpZeroTemplate.Configuration.Tenants.Dto
+namespace xtWork.Template.Configuration.Tenants.Dto
 {
     public class LdapSettingsEditDto
     {

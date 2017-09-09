@@ -1,9 +1,9 @@
 using Abp.AutoMapper;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy.Dto;
-using MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Common;
+using xtWork.Template.MultiTenancy;
+using xtWork.Template.MultiTenancy.Dto;
+using xtWork.Template.Web.Areas.Mpa.Models.Common;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Tenants
+namespace xtWork.Template.Web.Areas.Mpa.Models.Tenants
 {
     [AutoMapFrom(typeof (GetTenantFeaturesForEditOutput))]
     public class TenantFeaturesEditViewModel : GetTenantFeaturesForEditOutput, IFeatureEditViewModel

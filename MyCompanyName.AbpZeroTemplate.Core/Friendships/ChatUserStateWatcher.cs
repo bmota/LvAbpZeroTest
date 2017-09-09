@@ -2,10 +2,10 @@
 using Abp;
 using Abp.Dependency;
 using Abp.RealTime;
-using MyCompanyName.AbpZeroTemplate.Chat;
-using MyCompanyName.AbpZeroTemplate.Friendships.Cache;
+using xtWork.Template.Chat;
+using xtWork.Template.Friendships.Cache;
 
-namespace MyCompanyName.AbpZeroTemplate.Friendships
+namespace xtWork.Template.Friendships
 {
     public class ChatUserStateWatcher : ISingletonDependency
     {

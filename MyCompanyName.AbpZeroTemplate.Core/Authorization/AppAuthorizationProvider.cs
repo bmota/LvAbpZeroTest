@@ -3,7 +3,7 @@ using Abp.Configuration.Startup;
 using Abp.Localization;
 using Abp.MultiTenancy;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization
+namespace xtWork.Template.Authorization
 {
     /// <summary>
     /// Application's authorization provider.

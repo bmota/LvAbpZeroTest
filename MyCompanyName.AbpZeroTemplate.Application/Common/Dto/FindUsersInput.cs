@@ -1,6 +1,6 @@
-﻿using MyCompanyName.AbpZeroTemplate.Dto;
+﻿using xtWork.Template.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Common.Dto
+namespace xtWork.Template.Common.Dto
 {
     public class FindUsersInput : PagedAndFilteredInputDto
     {

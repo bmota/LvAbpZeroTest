@@ -2,7 +2,7 @@
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Auth
+namespace xtWork.Template.Web.Auth
 {
     public static class AuthenticationManagerExtensions
     {

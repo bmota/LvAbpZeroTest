@@ -3,9 +3,9 @@ using Abp.Authorization.Roles;
 using Abp.Domain.Uow;
 using Abp.Runtime.Caching;
 using Abp.Zero.Configuration;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
+using xtWork.Template.Authorization.Users;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Roles
+namespace xtWork.Template.Authorization.Roles
 {
     /// <summary>
     /// Role manager.

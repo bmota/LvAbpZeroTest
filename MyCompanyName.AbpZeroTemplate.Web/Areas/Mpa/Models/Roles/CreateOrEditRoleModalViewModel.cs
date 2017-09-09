@@ -1,8 +1,8 @@
 ﻿using Abp.AutoMapper;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles.Dto;
-using MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Common;
+using xtWork.Template.Authorization.Roles.Dto;
+using xtWork.Template.Web.Areas.Mpa.Models.Common;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Roles
+namespace xtWork.Template.Web.Areas.Mpa.Models.Roles
 {
     [AutoMapFrom(typeof(GetRoleForEditOutput))]
     public class CreateOrEditRoleModalViewModel : GetRoleForEditOutput, IPermissionsEditViewModel

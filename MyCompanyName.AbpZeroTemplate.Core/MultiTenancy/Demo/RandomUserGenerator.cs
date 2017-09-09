@@ -3,9 +3,9 @@ using System.Globalization;
 using Abp;
 using Abp.Dependency;
 using Microsoft.AspNet.Identity;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
+using xtWork.Template.Authorization.Users;
 
-namespace MyCompanyName.AbpZeroTemplate.MultiTenancy.Demo
+namespace xtWork.Template.MultiTenancy.Demo
 {
     public class RandomUserGenerator : ITransientDependency
     {

@@ -3,7 +3,7 @@ using Abp.Application.Services.Dto;
 using Abp.Authorization.Users;
 using Abp.AutoMapper;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto
+namespace xtWork.Template.Authorization.Users.Dto
 {
 
     [AutoMap(typeof(UserLoginAttempt))]

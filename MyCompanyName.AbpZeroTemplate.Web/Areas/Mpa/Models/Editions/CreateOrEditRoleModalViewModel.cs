@@ -1,8 +1,8 @@
 ﻿using Abp.AutoMapper;
-using MyCompanyName.AbpZeroTemplate.Editions.Dto;
-using MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Common;
+using xtWork.Template.Editions.Dto;
+using xtWork.Template.Web.Areas.Mpa.Models.Common;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Editions
+namespace xtWork.Template.Web.Areas.Mpa.Models.Editions
 {
     [AutoMapFrom(typeof(GetEditionForEditOutput))]
     public class CreateOrEditEditionModalViewModel : GetEditionForEditOutput, IFeatureEditViewModel

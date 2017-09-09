@@ -3,13 +3,13 @@ using System.Linq;
 using System.Threading.Tasks;
 using Abp.UI;
 using Microsoft.AspNet.Identity;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto;
+using xtWork.Template.Authorization.Roles;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.Authorization.Users.Dto;
 using Shouldly;
 using Xunit;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.Authorization.Users
+namespace xtWork.Template.Tests.Authorization.Users
 {
     public class UserAppService_Update_Tests : UserAppServiceTestBase
     {

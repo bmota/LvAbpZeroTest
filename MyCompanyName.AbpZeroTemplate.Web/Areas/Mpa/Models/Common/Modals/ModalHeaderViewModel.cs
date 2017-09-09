@@ -1,4 +1,4 @@
-﻿namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Common.Modals
+﻿namespace xtWork.Template.Web.Areas.Mpa.Models.Common.Modals
 {
     public class ModalHeaderViewModel
     {

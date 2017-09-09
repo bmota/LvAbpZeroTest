@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using Abp.Application.Services.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Dto
+namespace xtWork.Template.Dto
 {
     public class FileDto
     {

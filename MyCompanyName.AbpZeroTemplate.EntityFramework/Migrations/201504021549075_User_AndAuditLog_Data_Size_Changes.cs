@@ -1,6 +1,6 @@
 using System.Data.Entity.Migrations;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrations
+namespace xtWork.Template.Migrations
 {
     public partial class User_AndAuditLog_Data_Size_Changes : DbMigration
     {

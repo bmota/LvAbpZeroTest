@@ -10,15 +10,15 @@ using Abp.Runtime.Session;
 using Abp.Timing;
 using Abp.Zero.Configuration;
 using Abp.Zero.Ldap.Configuration;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Configuration.Host.Dto;
-using MyCompanyName.AbpZeroTemplate.Configuration.Tenants.Dto;
-using MyCompanyName.AbpZeroTemplate.Security;
-using MyCompanyName.AbpZeroTemplate.Storage;
-using MyCompanyName.AbpZeroTemplate.Timing;
+using xtWork.Template.Authorization;
+using xtWork.Template.Configuration.Host.Dto;
+using xtWork.Template.Configuration.Tenants.Dto;
+using xtWork.Template.Security;
+using xtWork.Template.Storage;
+using xtWork.Template.Timing;
 using Newtonsoft.Json;
 
-namespace MyCompanyName.AbpZeroTemplate.Configuration.Tenants
+namespace xtWork.Template.Configuration.Tenants
 {
     [AbpAuthorize(AppPermissions.Pages_Administration_Tenant_Settings)]
     public class TenantSettingsAppService : AbpZeroTemplateAppServiceBase, ITenantSettingsAppService

@@ -1,9 +1,9 @@
 using Abp.AutoMapper;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto;
-using MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Common;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.Authorization.Users.Dto;
+using xtWork.Template.Web.Areas.Mpa.Models.Common;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Users
+namespace xtWork.Template.Web.Areas.Mpa.Models.Users
 {
     [AutoMapFrom(typeof(GetUserPermissionsForEditOutput))]
     public class UserPermissionsEditViewModel : GetUserPermissionsForEditOutput, IPermissionsEditViewModel

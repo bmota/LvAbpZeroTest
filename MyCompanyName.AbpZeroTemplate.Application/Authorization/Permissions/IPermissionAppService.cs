@@ -1,8 +1,8 @@
 ﻿using Abp.Application.Services;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.Authorization.Permissions.Dto;
+using xtWork.Template.Authorization.Permissions.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Permissions
+namespace xtWork.Template.Authorization.Permissions
 {
     public interface IPermissionAppService : IApplicationService
     {

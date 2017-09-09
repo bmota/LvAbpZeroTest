@@ -1,10 +1,10 @@
 using System.Threading.Tasks;
 using Abp.Application.Services;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.Auditing.Dto;
-using MyCompanyName.AbpZeroTemplate.Dto;
+using xtWork.Template.Auditing.Dto;
+using xtWork.Template.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Auditing
+namespace xtWork.Template.Auditing
 {
     public interface IAuditLogAppService : IApplicationService
     {

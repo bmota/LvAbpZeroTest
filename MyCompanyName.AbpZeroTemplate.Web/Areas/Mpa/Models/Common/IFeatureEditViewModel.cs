@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.Editions.Dto;
+using xtWork.Template.Editions.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Common
+namespace xtWork.Template.Web.Areas.Mpa.Models.Common
 {
     public interface IFeatureEditViewModel
     {

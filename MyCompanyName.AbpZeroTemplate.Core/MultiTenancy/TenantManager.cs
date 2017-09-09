@@ -8,16 +8,16 @@ using Abp.Domain.Uow;
 using Abp.IdentityFramework;
 using Abp.MultiTenancy;
 using Microsoft.AspNet.Identity;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Editions;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy.Demo;
+using xtWork.Template.Authorization.Roles;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.Editions;
+using xtWork.Template.MultiTenancy.Demo;
 using Abp.Extensions;
 using Abp.Notifications;
 using Abp.Runtime.Security;
-using MyCompanyName.AbpZeroTemplate.Notifications;
+using xtWork.Template.Notifications;
 
-namespace MyCompanyName.AbpZeroTemplate.MultiTenancy
+namespace xtWork.Template.MultiTenancy
 {
     /// <summary>
     /// Tenant manager.

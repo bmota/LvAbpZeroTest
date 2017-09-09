@@ -7,12 +7,12 @@ using Abp.Application.Services.Dto;
 using Abp.Extensions;
 using Abp.Localization;
 using Abp.Web.Mvc.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Localization;
-using MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Languages;
-using MyCompanyName.AbpZeroTemplate.Web.Controllers;
+using xtWork.Template.Authorization;
+using xtWork.Template.Localization;
+using xtWork.Template.Web.Areas.Mpa.Models.Languages;
+using xtWork.Template.Web.Controllers;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Controllers
+namespace xtWork.Template.Web.Areas.Mpa.Controllers
 {
     [AbpMvcAuthorize(AppPermissions.Pages_Administration_Languages)]
     public class LanguagesController : AbpZeroTemplateControllerBase

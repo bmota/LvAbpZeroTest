@@ -3,7 +3,7 @@ using System.Text;
 using Abp.Dependency;
 using Abp.IO.Extensions;
 
-namespace MyCompanyName.AbpZeroTemplate.Emailing
+namespace xtWork.Template.Emailing
 {
     public class EmailTemplateProvider : IEmailTemplateProvider, ITransientDependency
     {

@@ -2,9 +2,9 @@
 using System.Threading.Tasks;
 using Abp.Application.Services;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.Editions.Dto;
+using xtWork.Template.Editions.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Editions
+namespace xtWork.Template.Editions
 {
     public interface IEditionAppService : IApplicationService
     {

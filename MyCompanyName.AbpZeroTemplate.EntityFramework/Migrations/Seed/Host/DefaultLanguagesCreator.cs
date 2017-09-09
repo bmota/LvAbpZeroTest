@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using Abp.Localization;
-using MyCompanyName.AbpZeroTemplate.EntityFramework;
+using xtWork.Template.EntityFramework;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrations.Seed.Host
+namespace xtWork.Template.Migrations.Seed.Host
 {
     public class DefaultLanguagesCreator
     {

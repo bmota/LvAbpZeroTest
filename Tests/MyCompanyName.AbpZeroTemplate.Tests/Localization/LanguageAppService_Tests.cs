@@ -5,13 +5,13 @@ using Abp;
 using Abp.Application.Services.Dto;
 using Abp.Configuration.Startup;
 using Abp.Localization;
-using MyCompanyName.AbpZeroTemplate.Localization;
-using MyCompanyName.AbpZeroTemplate.Localization.Dto;
-using MyCompanyName.AbpZeroTemplate.Migrations.Seed.Host;
+using xtWork.Template.Localization;
+using xtWork.Template.Localization.Dto;
+using xtWork.Template.Migrations.Seed.Host;
 using Shouldly;
 using Xunit;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.Localization
+namespace xtWork.Template.Tests.Localization
 {
     public class LanguageAppService_Tests : AppTestBase
     {

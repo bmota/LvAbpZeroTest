@@ -4,16 +4,16 @@ using Abp.Configuration;
 using Abp.Runtime.Session;
 using Abp.Timing;
 using Abp.Web.Mvc.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Configuration.Host;
-using MyCompanyName.AbpZeroTemplate.Editions;
-using MyCompanyName.AbpZeroTemplate.Timing;
-using MyCompanyName.AbpZeroTemplate.Timing.Dto;
-using MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.HostSettings;
-using MyCompanyName.AbpZeroTemplate.Web.Controllers;
+using xtWork.Template.Authorization;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.Configuration.Host;
+using xtWork.Template.Editions;
+using xtWork.Template.Timing;
+using xtWork.Template.Timing.Dto;
+using xtWork.Template.Web.Areas.Mpa.Models.HostSettings;
+using xtWork.Template.Web.Controllers;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Controllers
+namespace xtWork.Template.Web.Areas.Mpa.Controllers
 {
     [AbpMvcAuthorize(AppPermissions.Pages_Administration_Host_Settings)]
     public class HostSettingsController : AbpZeroTemplateControllerBase

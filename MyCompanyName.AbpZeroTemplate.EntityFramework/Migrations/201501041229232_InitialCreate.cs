@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Data.Entity.Migrations;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrations
+namespace xtWork.Template.Migrations
 {
     public partial class InitialCreate : DbMigration
     {

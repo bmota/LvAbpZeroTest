@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
-using MyCompanyName.AbpZeroTemplate.Security;
+using xtWork.Template.Security;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Models.Account
+namespace xtWork.Template.Web.Models.Account
 {
     public class ResetPasswordViewModel
     {

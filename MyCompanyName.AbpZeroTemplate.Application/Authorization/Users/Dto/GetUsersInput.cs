@@ -1,7 +1,7 @@
 ﻿using Abp.Runtime.Validation;
-using MyCompanyName.AbpZeroTemplate.Dto;
+using xtWork.Template.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto
+namespace xtWork.Template.Authorization.Users.Dto
 {
     public class GetUsersInput : PagedAndSortedInputDto, IShouldNormalize
     {

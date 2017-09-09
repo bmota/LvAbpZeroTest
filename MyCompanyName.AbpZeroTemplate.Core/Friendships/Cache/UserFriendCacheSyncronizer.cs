@@ -3,9 +3,9 @@ using Abp.AutoMapper;
 using Abp.Dependency;
 using Abp.Events.Bus.Entities;
 using Abp.Events.Bus.Handlers;
-using MyCompanyName.AbpZeroTemplate.Chat;
+using xtWork.Template.Chat;
 
-namespace MyCompanyName.AbpZeroTemplate.Friendships.Cache
+namespace xtWork.Template.Friendships.Cache
 {
     public class UserFriendCacheSyncronizer :
         IEventHandler<EntityCreatedEventData<Friendship>>,

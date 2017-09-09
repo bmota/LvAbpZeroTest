@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Data.Entity;
 using Abp.Domain.Repositories;
-using MyCompanyName.AbpZeroTemplate.Chat.Dto;
+using xtWork.Template.Chat.Dto;
 using System.Linq;
 using System.Threading.Tasks;
 using Abp;
@@ -12,10 +12,10 @@ using Abp.Linq.Extensions;
 using Abp.RealTime;
 using Abp.Runtime.Session;
 using Abp.Timing;
-using MyCompanyName.AbpZeroTemplate.Friendships.Cache;
-using MyCompanyName.AbpZeroTemplate.Friendships.Dto;
+using xtWork.Template.Friendships.Cache;
+using xtWork.Template.Friendships.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Chat
+namespace xtWork.Template.Chat
 {
     public class ChatAppService : AbpZeroTemplateAppServiceBase, IChatAppService
     {

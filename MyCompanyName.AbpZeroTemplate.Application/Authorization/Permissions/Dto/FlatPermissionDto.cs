@@ -1,6 +1,6 @@
 using Abp.AutoMapper;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Permissions.Dto
+namespace xtWork.Template.Authorization.Permissions.Dto
 {
     [AutoMapFrom(typeof(Abp.Authorization.Permission))]
     public class FlatPermissionDto

@@ -3,7 +3,7 @@ using Abp.Authorization.Users;
 using Abp.Extensions;
 using Microsoft.AspNet.Identity;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users
+namespace xtWork.Template.Authorization.Users
 {
     /// <summary>
     /// Represents a user in the system.

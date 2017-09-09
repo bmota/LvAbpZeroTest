@@ -2,9 +2,9 @@
 using Abp.AutoMapper;
 using Abp.Localization;
 using Abp.Modules;
-using MyCompanyName.AbpZeroTemplate.Authorization;
+using xtWork.Template.Authorization;
 
-namespace MyCompanyName.AbpZeroTemplate
+namespace xtWork.Template
 {
     /// <summary>
     /// Application layer module of the application.

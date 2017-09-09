@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Abp.Application.Services.Dto;
 using Abp.Configuration;
-using MyCompanyName.AbpZeroTemplate.Timing.Dto;
+using xtWork.Template.Timing.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Timing
+namespace xtWork.Template.Timing
 {
     public class TimingAppService : AbpZeroTemplateAppServiceBase, ITimingAppService
     {

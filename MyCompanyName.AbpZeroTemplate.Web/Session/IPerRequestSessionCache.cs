@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
-using MyCompanyName.AbpZeroTemplate.Sessions.Dto;
+using xtWork.Template.Sessions.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Session
+namespace xtWork.Template.Web.Session
 {
     public interface IPerRequestSessionCache
     {

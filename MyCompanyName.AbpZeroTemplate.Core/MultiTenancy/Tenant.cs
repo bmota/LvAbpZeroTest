@@ -1,9 +1,9 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 using Abp.MultiTenancy;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
+using xtWork.Template.Authorization.Users;
 
-namespace MyCompanyName.AbpZeroTemplate.MultiTenancy
+namespace xtWork.Template.MultiTenancy
 {
     /// <summary>
     /// Represents a Tenant in the system.

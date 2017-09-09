@@ -1,6 +1,6 @@
 using Abp.WebApi.Controllers;
 
-namespace MyCompanyName.AbpZeroTemplate.WebApi
+namespace xtWork.Template.WebApi
 {
     public abstract class AbpZeroTemplateApiControllerBase : AbpApiController
     {

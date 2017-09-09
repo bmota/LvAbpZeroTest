@@ -1,4 +1,4 @@
-namespace MyCompanyName.AbpZeroTemplate.Migrations
+namespace xtWork.Template.Migrations
 {
     using System;
     using System.Collections.Generic;

@@ -2,7 +2,7 @@
 using System.Drawing.Imaging;
 using System.IO;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Helpers
+namespace xtWork.Template.Web.Helpers
 {
     public class ImageFormatHelper
     {

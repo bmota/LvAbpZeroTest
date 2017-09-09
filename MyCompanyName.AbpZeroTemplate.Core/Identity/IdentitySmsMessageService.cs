@@ -3,7 +3,7 @@ using Abp.Dependency;
 using Castle.Core.Logging;
 using Microsoft.AspNet.Identity;
 
-namespace MyCompanyName.AbpZeroTemplate.Identity
+namespace xtWork.Template.Identity
 {
     public class IdentitySmsMessageService : IIdentityMessageService, ITransientDependency
     {

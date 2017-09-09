@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace MyCompanyName.AbpZeroTemplate
+namespace xtWork.Template
 {
     /// <summary>
     /// Central point for application version.

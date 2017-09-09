@@ -2,7 +2,7 @@ using Abp.Application.Features;
 using Abp.AutoMapper;
 using Abp.UI.Inputs;
 
-namespace MyCompanyName.AbpZeroTemplate.Editions.Dto
+namespace xtWork.Template.Editions.Dto
 {
     [AutoMapFrom(typeof(Feature))]
     public class FlatFeatureDto

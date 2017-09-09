@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.Configuration.Host.Dto;
+using xtWork.Template.Configuration.Host.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.HostSettings
+namespace xtWork.Template.Web.Areas.Mpa.Models.HostSettings
 {
     public class HostSettingsViewModel
     {

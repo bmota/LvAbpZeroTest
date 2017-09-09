@@ -1,8 +1,8 @@
 ﻿using Abp.Application.Services;
-using MyCompanyName.AbpZeroTemplate.Dto;
-using MyCompanyName.AbpZeroTemplate.Logging.Dto;
+using xtWork.Template.Dto;
+using xtWork.Template.Logging.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Logging
+namespace xtWork.Template.Logging
 {
     public interface IWebLogAppService : IApplicationService
     {

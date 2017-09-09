@@ -1,8 +1,8 @@
 using AutoMapper;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.Authorization.Users.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate
+namespace xtWork.Template
 {
     internal static class CustomDtoMapper
     {

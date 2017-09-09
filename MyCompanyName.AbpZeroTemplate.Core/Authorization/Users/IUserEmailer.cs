@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
-using MyCompanyName.AbpZeroTemplate.Chat;
+using xtWork.Template.Chat;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users
+namespace xtWork.Template.Authorization.Users
 {
     public interface IUserEmailer
     {

@@ -1,9 +1,9 @@
 ﻿using Abp.Authorization;
 using Abp.Localization;
 using Abp.Notifications;
-using MyCompanyName.AbpZeroTemplate.Authorization;
+using xtWork.Template.Authorization;
 
-namespace MyCompanyName.AbpZeroTemplate.Notifications
+namespace xtWork.Template.Notifications
 {
     public class AppNotificationProvider : NotificationProvider
     {

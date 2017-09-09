@@ -8,10 +8,10 @@ using Abp.Application.Editions;
 using Abp.Application.Services.Dto;
 using Abp.Authorization;
 using Abp.AutoMapper;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Editions.Dto;
+using xtWork.Template.Authorization;
+using xtWork.Template.Editions.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Editions
+namespace xtWork.Template.Editions
 {
     [AbpAuthorize(AppPermissions.Pages_Editions)]
     public class EditionAppService : AbpZeroTemplateAppServiceBase, IEditionAppService

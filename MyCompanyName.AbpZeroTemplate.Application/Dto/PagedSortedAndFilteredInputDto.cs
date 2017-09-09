@@ -1,4 +1,4 @@
-﻿namespace MyCompanyName.AbpZeroTemplate.Dto
+﻿namespace xtWork.Template.Dto
 {
     public class PagedSortedAndFilteredInputDto : PagedAndSortedInputDto
     {

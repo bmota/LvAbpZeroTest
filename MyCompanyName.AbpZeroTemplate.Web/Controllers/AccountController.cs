@@ -30,25 +30,25 @@ using Abp.Zero.Configuration;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization.Impersonation;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Configuration;
-using MyCompanyName.AbpZeroTemplate.Debugging;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
-using MyCompanyName.AbpZeroTemplate.Notifications;
-using MyCompanyName.AbpZeroTemplate.Web.Controllers.Results;
-using MyCompanyName.AbpZeroTemplate.Web.Models.Account;
-using MyCompanyName.AbpZeroTemplate.Web.MultiTenancy;
+using xtWork.Template.Authorization;
+using xtWork.Template.Authorization.Impersonation;
+using xtWork.Template.Authorization.Roles;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.Configuration;
+using xtWork.Template.Debugging;
+using xtWork.Template.MultiTenancy;
+using xtWork.Template.Notifications;
+using xtWork.Template.Web.Controllers.Results;
+using xtWork.Template.Web.Models.Account;
+using xtWork.Template.Web.MultiTenancy;
 using Recaptcha.Web;
 using Recaptcha.Web.Mvc;
 using Newtonsoft.Json;
-using MyCompanyName.AbpZeroTemplate.Security;
-using MyCompanyName.AbpZeroTemplate.Web.Auth;
-using MyCompanyName.AbpZeroTemplate.Web.Models.Layout;
+using xtWork.Template.Security;
+using xtWork.Template.Web.Auth;
+using xtWork.Template.Web.Models.Layout;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Controllers
+namespace xtWork.Template.Web.Controllers
 {
     public class AccountController : AbpZeroTemplateControllerBase
     {

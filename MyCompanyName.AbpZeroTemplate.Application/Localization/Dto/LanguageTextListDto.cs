@@ -1,6 +1,6 @@
 using Abp.Application.Services.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Localization.Dto
+namespace xtWork.Template.Localization.Dto
 {
     public class LanguageTextListDto
     {

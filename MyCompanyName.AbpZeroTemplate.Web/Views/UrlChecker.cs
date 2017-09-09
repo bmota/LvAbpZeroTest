@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Views
+namespace xtWork.Template.Web.Views
 {
     public static class UrlChecker
     {

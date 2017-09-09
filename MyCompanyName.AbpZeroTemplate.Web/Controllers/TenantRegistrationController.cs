@@ -10,22 +10,22 @@ using Abp.Configuration.Startup;
 using Abp.Domain.Uow;
 using Abp.UI;
 using Abp.Zero.Configuration;
-using MyCompanyName.AbpZeroTemplate.Configuration;
-using MyCompanyName.AbpZeroTemplate.Debugging;
-using MyCompanyName.AbpZeroTemplate.Web.Models.TenantRegistration;
+using xtWork.Template.Configuration;
+using xtWork.Template.Debugging;
+using xtWork.Template.Web.Models.TenantRegistration;
 using Recaptcha.Web;
 using Recaptcha.Web.Mvc;
 using Abp.Extensions;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Editions;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
-using MyCompanyName.AbpZeroTemplate.Notifications;
-using MyCompanyName.AbpZeroTemplate.Web.Auth;
+using xtWork.Template.Authorization;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.Editions;
+using xtWork.Template.MultiTenancy;
+using xtWork.Template.Notifications;
+using xtWork.Template.Web.Auth;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Controllers
+namespace xtWork.Template.Web.Controllers
 {
     public class TenantRegistrationController : AbpZeroTemplateControllerBase
     {

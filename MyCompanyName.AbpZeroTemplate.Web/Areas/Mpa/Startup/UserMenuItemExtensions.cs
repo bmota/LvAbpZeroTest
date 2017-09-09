@@ -1,7 +1,7 @@
 ﻿using Abp.Application.Navigation;
-using MyCompanyName.AbpZeroTemplate.Web.Views;
+using xtWork.Template.Web.Views;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Startup
+namespace xtWork.Template.Web.Areas.Mpa.Startup
 {
     public static class UserMenuItemExtensions
     {

@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 using Abp.Application.Editions;
 using Abp.AutoMapper;
 
-namespace MyCompanyName.AbpZeroTemplate.Editions.Dto
+namespace xtWork.Template.Editions.Dto
 {
     [AutoMap(typeof(Edition))]
     public class EditionEditDto

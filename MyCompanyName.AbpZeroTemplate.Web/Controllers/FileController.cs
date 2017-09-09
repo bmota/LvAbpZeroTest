@@ -3,9 +3,9 @@ using System.Web.Mvc;
 using Abp.Auditing;
 using Abp.UI;
 using Abp.Web.Mvc.Authorization;
-using MyCompanyName.AbpZeroTemplate.Dto;
+using xtWork.Template.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Controllers
+namespace xtWork.Template.Web.Controllers
 {
     public class FileController : AbpZeroTemplateControllerBase
     {

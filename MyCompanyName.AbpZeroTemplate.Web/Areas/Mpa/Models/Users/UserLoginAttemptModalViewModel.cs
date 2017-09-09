@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto;
+using xtWork.Template.Authorization.Users.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Users
+namespace xtWork.Template.Web.Areas.Mpa.Models.Users
 {
     public class UserLoginAttemptModalViewModel
     {

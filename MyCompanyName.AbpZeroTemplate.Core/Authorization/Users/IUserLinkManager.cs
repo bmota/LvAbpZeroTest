@@ -2,7 +2,7 @@ using System.Threading.Tasks;
 using Abp;
 using Abp.Authorization.Users;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users
+namespace xtWork.Template.Authorization.Users
 {
     public interface IUserLinkManager
     {

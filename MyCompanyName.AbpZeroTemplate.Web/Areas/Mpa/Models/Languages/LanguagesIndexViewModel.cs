@@ -1,4 +1,4 @@
-﻿namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Languages
+﻿namespace xtWork.Template.Web.Areas.Mpa.Models.Languages
 {
     public class LanguagesIndexViewModel
     {

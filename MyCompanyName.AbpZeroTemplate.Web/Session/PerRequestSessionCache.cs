@@ -1,10 +1,10 @@
 ﻿using System.Threading.Tasks;
 using System.Web;
 using Abp.Dependency;
-using MyCompanyName.AbpZeroTemplate.Sessions;
-using MyCompanyName.AbpZeroTemplate.Sessions.Dto;
+using xtWork.Template.Sessions;
+using xtWork.Template.Sessions.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Session
+namespace xtWork.Template.Web.Session
 {
     public class PerRequestSessionCache : IPerRequestSessionCache, ITransientDependency
     {

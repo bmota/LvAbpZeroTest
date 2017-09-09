@@ -2,9 +2,9 @@
 using Abp.Configuration;
 using Abp.Localization;
 using Abp.Net.Mail;
-using MyCompanyName.AbpZeroTemplate.EntityFramework;
+using xtWork.Template.EntityFramework;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrations.Seed.Host
+namespace xtWork.Template.Migrations.Seed.Host
 {
     public class DefaultSettingsCreator
     {

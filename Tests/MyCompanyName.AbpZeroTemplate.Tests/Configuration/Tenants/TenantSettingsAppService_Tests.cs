@@ -1,11 +1,11 @@
 ﻿using System.Threading.Tasks;
 using Abp.Configuration;
-using MyCompanyName.AbpZeroTemplate.Configuration;
-using MyCompanyName.AbpZeroTemplate.Configuration.Tenants;
+using xtWork.Template.Configuration;
+using xtWork.Template.Configuration.Tenants;
 using Shouldly;
 using Xunit;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.Configuration.Tenants
+namespace xtWork.Template.Tests.Configuration.Tenants
 {
     public class TenantSettingsAppService_Tests : AppTestBase
     {

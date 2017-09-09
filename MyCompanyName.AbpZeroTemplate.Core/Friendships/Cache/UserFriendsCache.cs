@@ -1,15 +1,15 @@
 using Abp;
 using Abp.Domain.Repositories;
 using Abp.Runtime.Caching;
-using MyCompanyName.AbpZeroTemplate.Chat;
+using xtWork.Template.Chat;
 using System.Linq;
 using Abp.Dependency;
 using Abp.Domain.Uow;
 using Abp.MultiTenancy;
 using Microsoft.AspNet.Identity;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
+using xtWork.Template.Authorization.Users;
 
-namespace MyCompanyName.AbpZeroTemplate.Friendships.Cache
+namespace xtWork.Template.Friendships.Cache
 {
     public class UserFriendsCache : IUserFriendsCache, ISingletonDependency
     {

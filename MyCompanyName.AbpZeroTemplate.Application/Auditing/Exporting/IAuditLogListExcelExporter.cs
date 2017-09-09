@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using MyCompanyName.AbpZeroTemplate.Auditing.Dto;
-using MyCompanyName.AbpZeroTemplate.Dto;
+using xtWork.Template.Auditing.Dto;
+using xtWork.Template.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Auditing.Exporting
+namespace xtWork.Template.Auditing.Exporting
 {
     public interface IAuditLogListExcelExporter
     {

@@ -1,8 +1,8 @@
 using System.Web.Mvc;
 using Abp.Web.Mvc.Authorization;
-using MyCompanyName.AbpZeroTemplate.Web.Controllers;
+using xtWork.Template.Web.Controllers;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Controllers
+namespace xtWork.Template.Web.Areas.Mpa.Controllers
 {
     [AbpMvcAuthorize]
     public class WelcomeController : AbpZeroTemplateControllerBase

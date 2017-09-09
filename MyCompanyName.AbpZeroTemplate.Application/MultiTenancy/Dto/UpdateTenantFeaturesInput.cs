@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using Abp.Application.Services.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.MultiTenancy.Dto
+namespace xtWork.Template.MultiTenancy.Dto
 {
     public class UpdateTenantFeaturesInput
     {

@@ -7,12 +7,12 @@ using Abp.Web.Models;
 using Microsoft.Owin.Infrastructure;
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.OAuth;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
-using MyCompanyName.AbpZeroTemplate.WebApi.Models;
+using xtWork.Template.Authorization;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.MultiTenancy;
+using xtWork.Template.WebApi.Models;
 
-namespace MyCompanyName.AbpZeroTemplate.WebApi.Controllers
+namespace xtWork.Template.WebApi.Controllers
 {
     public class AccountController : AbpZeroTemplateApiControllerBase
     {

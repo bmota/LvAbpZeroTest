@@ -5,14 +5,14 @@ using System.Web.Mvc;
 using Abp.Application.Services.Dto;
 using Abp.AutoMapper;
 using Abp.Web.Mvc.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization.Permissions;
-using MyCompanyName.AbpZeroTemplate.Authorization.Permissions.Dto;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles;
-using MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Roles;
-using MyCompanyName.AbpZeroTemplate.Web.Controllers;
+using xtWork.Template.Authorization;
+using xtWork.Template.Authorization.Permissions;
+using xtWork.Template.Authorization.Permissions.Dto;
+using xtWork.Template.Authorization.Roles;
+using xtWork.Template.Web.Areas.Mpa.Models.Roles;
+using xtWork.Template.Web.Controllers;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Controllers
+namespace xtWork.Template.Web.Areas.Mpa.Controllers
 {
     [AbpMvcAuthorize(AppPermissions.Pages_Administration_Roles)]
     public class RolesController : AbpZeroTemplateControllerBase

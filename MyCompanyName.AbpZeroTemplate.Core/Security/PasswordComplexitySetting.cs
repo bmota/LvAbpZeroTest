@@ -1,4 +1,4 @@
-﻿namespace MyCompanyName.AbpZeroTemplate.Security
+﻿namespace xtWork.Template.Security
 {
     public class PasswordComplexitySetting
     {

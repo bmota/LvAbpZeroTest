@@ -9,9 +9,9 @@ using Abp.Authorization.Users;
 using Abp.AutoMapper;
 using Abp.Domain.Repositories;
 using Abp.Runtime.Session;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto;
+using xtWork.Template.Authorization.Users.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users
+namespace xtWork.Template.Authorization.Users
 {
     [AbpAuthorize]
     public class UserLoginAppService : AbpZeroTemplateAppServiceBase, IUserLoginAppService

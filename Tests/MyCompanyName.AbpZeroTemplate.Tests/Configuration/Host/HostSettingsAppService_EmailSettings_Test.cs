@@ -1,11 +1,11 @@
 ﻿using System.Threading.Tasks;
 using Abp.Configuration;
 using Abp.Net.Mail;
-using MyCompanyName.AbpZeroTemplate.Configuration.Host;
+using xtWork.Template.Configuration.Host;
 using Shouldly;
 using Xunit;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.Configuration.Host
+namespace xtWork.Template.Tests.Configuration.Host
 {
     public class HostSettingsAppService_EmailSettings_Test : AppTestBase
     {

@@ -2,7 +2,7 @@
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Routing
+namespace xtWork.Template.Web.Routing
 {
     public static class RouteConfig
     {

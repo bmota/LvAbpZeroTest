@@ -1,10 +1,10 @@
 ﻿using System.Threading.Tasks;
 using Abp;
 using Abp.Notifications;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.MultiTenancy;
 
-namespace MyCompanyName.AbpZeroTemplate.Notifications
+namespace xtWork.Template.Notifications
 {
     public interface IAppNotifier
     {

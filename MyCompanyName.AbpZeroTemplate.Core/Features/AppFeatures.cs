@@ -1,4 +1,4 @@
-﻿namespace MyCompanyName.AbpZeroTemplate.Features
+﻿namespace xtWork.Template.Features
 {
     public static class AppFeatures
     {

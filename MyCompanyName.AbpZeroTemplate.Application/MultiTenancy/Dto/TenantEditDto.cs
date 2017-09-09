@@ -2,7 +2,7 @@
 using Abp.Application.Services.Dto;
 using Abp.AutoMapper;
 
-namespace MyCompanyName.AbpZeroTemplate.MultiTenancy.Dto
+namespace xtWork.Template.MultiTenancy.Dto
 {
     [AutoMap(typeof (Tenant))]
     public class TenantEditDto : EntityDto

@@ -1,7 +1,7 @@
 using Abp.Auditing;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
+using xtWork.Template.Authorization.Users;
 
-namespace MyCompanyName.AbpZeroTemplate.Auditing
+namespace xtWork.Template.Auditing
 {
     /// <summary>
     /// A helper class to store an <see cref="AuditLog"/> and a <see cref="User"/> object.

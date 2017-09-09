@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.Configuration.Tenants.Dto;
+using xtWork.Template.Configuration.Tenants.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Settings
+namespace xtWork.Template.Web.Areas.Mpa.Models.Settings
 {
     public class SettingsViewModel
     {

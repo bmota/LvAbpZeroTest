@@ -5,14 +5,14 @@ using System.Threading.Tasks;
 using Abp.Application.Services.Dto;
 using Abp.MultiTenancy;
 using Abp.Zero.Configuration;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy.Dto;
-using MyCompanyName.AbpZeroTemplate.Notifications;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.MultiTenancy;
+using xtWork.Template.MultiTenancy.Dto;
+using xtWork.Template.Notifications;
 using Shouldly;
 using Xunit;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.MultiTenancy
+namespace xtWork.Template.Tests.MultiTenancy
 {
     public class TenantAppService_Tests : AppTestBase
     {

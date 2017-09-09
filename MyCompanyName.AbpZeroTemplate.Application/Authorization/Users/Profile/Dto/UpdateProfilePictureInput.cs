@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using Abp.Application.Services.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users.Profile.Dto
+namespace xtWork.Template.Authorization.Users.Profile.Dto
 {
     public class UpdateProfilePictureInput
     {

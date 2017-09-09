@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto
+namespace xtWork.Template.Authorization.Users.Dto
 {
     public class GetUserForEditOutput
     {

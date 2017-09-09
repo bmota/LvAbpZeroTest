@@ -1,9 +1,9 @@
 ﻿using System.Threading.Tasks;
 using Abp.Application.Services;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.Common.Dto;
+using xtWork.Template.Common.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Common
+namespace xtWork.Template.Common
 {
     public interface ICommonLookupAppService : IApplicationService
     {

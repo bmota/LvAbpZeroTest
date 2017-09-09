@@ -2,7 +2,7 @@
 using Abp.Auditing;
 using Abp.Web.Mvc.Authorization;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Controllers
+namespace xtWork.Template.Web.Controllers
 {
     [AbpMvcAuthorize]
     public class ApplicationController : AbpZeroTemplateControllerBase

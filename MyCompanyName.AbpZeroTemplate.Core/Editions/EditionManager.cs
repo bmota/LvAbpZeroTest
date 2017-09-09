@@ -2,7 +2,7 @@
 using Abp.Application.Features;
 using Abp.Domain.Repositories;
 
-namespace MyCompanyName.AbpZeroTemplate.Editions
+namespace xtWork.Template.Editions
 {
     public class EditionManager : AbpEditionManager
     {

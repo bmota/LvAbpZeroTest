@@ -9,14 +9,14 @@ using Abp.IO;
 using Abp.Runtime.Session;
 using Abp.Timing;
 using Abp.UI;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Profile.Dto;
-using MyCompanyName.AbpZeroTemplate.Configuration;
-using MyCompanyName.AbpZeroTemplate.Security;
-using MyCompanyName.AbpZeroTemplate.Storage;
-using MyCompanyName.AbpZeroTemplate.Timing;
+using xtWork.Template.Authorization.Users.Profile.Dto;
+using xtWork.Template.Configuration;
+using xtWork.Template.Security;
+using xtWork.Template.Storage;
+using xtWork.Template.Timing;
 using Newtonsoft.Json;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users.Profile
+namespace xtWork.Template.Authorization.Users.Profile
 {
     [AbpAuthorize]
     public class ProfileAppService : AbpZeroTemplateAppServiceBase, IProfileAppService

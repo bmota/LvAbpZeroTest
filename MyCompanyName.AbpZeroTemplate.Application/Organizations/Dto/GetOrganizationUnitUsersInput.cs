@@ -1,8 +1,8 @@
 using System.ComponentModel.DataAnnotations;
 using Abp.Runtime.Validation;
-using MyCompanyName.AbpZeroTemplate.Dto;
+using xtWork.Template.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Organizations.Dto
+namespace xtWork.Template.Organizations.Dto
 {
     public class GetOrganizationUnitUsersInput : PagedAndSortedInputDto, IShouldNormalize
     {

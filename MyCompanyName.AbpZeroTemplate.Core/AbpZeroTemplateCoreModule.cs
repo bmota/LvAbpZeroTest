@@ -11,18 +11,18 @@ using Abp.Runtime.Session;
 using Abp.Zero;
 using Abp.Zero.Configuration;
 using Abp.Zero.Ldap;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Chat;
-using MyCompanyName.AbpZeroTemplate.Configuration;
-using MyCompanyName.AbpZeroTemplate.Debugging;
-using MyCompanyName.AbpZeroTemplate.Features;
-using MyCompanyName.AbpZeroTemplate.Friendships;
-using MyCompanyName.AbpZeroTemplate.Friendships.Cache;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
-using MyCompanyName.AbpZeroTemplate.Notifications;
+using xtWork.Template.Authorization.Roles;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.Chat;
+using xtWork.Template.Configuration;
+using xtWork.Template.Debugging;
+using xtWork.Template.Features;
+using xtWork.Template.Friendships;
+using xtWork.Template.Friendships.Cache;
+using xtWork.Template.MultiTenancy;
+using xtWork.Template.Notifications;
 
-namespace MyCompanyName.AbpZeroTemplate
+namespace xtWork.Template
 {
     /// <summary>
     /// Core (domain) module of the application.
@@ -45,7 +45,8 @@ namespace MyCompanyName.AbpZeroTemplate
                     "AbpZeroTemplate",
                     new XmlEmbeddedFileLocalizationDictionaryProvider(
                         Assembly.GetExecutingAssembly(),
-                        "MyCompanyName.AbpZeroTemplate.Localization.AbpZeroTemplate"
+                        "xtWork.Template.Localization.AbpZeroTemplate"
+                        //  "MyCompanyName.AbpZeroTemplate.Localization.AbpZeroTemplate"
                         )
                     )
                 );

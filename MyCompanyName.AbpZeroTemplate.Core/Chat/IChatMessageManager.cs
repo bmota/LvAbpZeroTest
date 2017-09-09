@@ -2,7 +2,7 @@
 using Abp;
 using Abp.Domain.Services;
 
-namespace MyCompanyName.AbpZeroTemplate.Chat
+namespace xtWork.Template.Chat
 {
     public interface IChatMessageManager : IDomainService
     {

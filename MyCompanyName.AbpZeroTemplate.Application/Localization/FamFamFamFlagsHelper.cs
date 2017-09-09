@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace MyCompanyName.AbpZeroTemplate.Localization
+namespace xtWork.Template.Localization
 {
     public static class FamFamFamFlagsHelper
     {

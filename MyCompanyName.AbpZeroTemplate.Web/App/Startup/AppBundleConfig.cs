@@ -1,7 +1,7 @@
 ﻿using System.Web.Optimization;
-using MyCompanyName.AbpZeroTemplate.Web.Bundling;
+using xtWork.Template.Web.Bundling;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.App.Startup
+namespace xtWork.Template.Web.App.Startup
 {
     public static class AppBundleConfig
     {

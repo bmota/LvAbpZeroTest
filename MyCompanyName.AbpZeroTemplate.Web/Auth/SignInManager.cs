@@ -2,11 +2,11 @@
 using Abp.Configuration;
 using Abp.Domain.Uow;
 using Microsoft.Owin.Security;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
+using xtWork.Template.Authorization.Roles;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.MultiTenancy;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Auth
+namespace xtWork.Template.Web.Auth
 {
     public class SignInManager : AbpSignInManager<Tenant, Role, User>
     {

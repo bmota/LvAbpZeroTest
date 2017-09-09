@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using Abp;
 using Abp.RealTime;
-using MyCompanyName.AbpZeroTemplate.Friendships;
+using xtWork.Template.Friendships;
 
-namespace MyCompanyName.AbpZeroTemplate.Chat
+namespace xtWork.Template.Chat
 {
     public interface IChatCommunicator
     {

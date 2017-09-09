@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Abp.Localization;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Models.Account
+namespace xtWork.Template.Web.Models.Account
 {
     public class LanguagesViewModel
     {

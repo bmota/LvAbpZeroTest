@@ -8,11 +8,11 @@ using Abp.AutoMapper;
 using Abp.Domain.Repositories;
 using Abp.Linq.Extensions;
 using Abp.Organizations;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Organizations.Dto;
+using xtWork.Template.Authorization;
+using xtWork.Template.Organizations.Dto;
 using System.Linq.Dynamic;
 
-namespace MyCompanyName.AbpZeroTemplate.Organizations
+namespace xtWork.Template.Organizations
 {
     [AbpAuthorize(AppPermissions.Pages_Administration_OrganizationUnits)]
     public class OrganizationUnitAppService : AbpZeroTemplateAppServiceBase, IOrganizationUnitAppService

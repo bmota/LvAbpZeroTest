@@ -4,7 +4,7 @@ using System.CodeDom.Compiler;
 using System.Data.Entity.Migrations.Infrastructure;
 using System.Resources;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrations
+namespace xtWork.Template.Migrations
 {
     [GeneratedCode("EntityFramework.Migrations", "6.1.2-31219")]
     public sealed partial class Tenant_Changed_To_FullAuditedEntity_From_AuditedEntity : IMigrationMetadata

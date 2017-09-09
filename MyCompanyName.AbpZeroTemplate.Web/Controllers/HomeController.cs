@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Controllers
+namespace xtWork.Template.Web.Controllers
 {
     public class HomeController : AbpZeroTemplateControllerBase
     {

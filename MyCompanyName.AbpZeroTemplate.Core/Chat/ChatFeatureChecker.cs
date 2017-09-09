@@ -1,8 +1,8 @@
 ﻿using Abp.Application.Features;
 using Abp.UI;
-using MyCompanyName.AbpZeroTemplate.Features;
+using xtWork.Template.Features;
 
-namespace MyCompanyName.AbpZeroTemplate.Chat
+namespace xtWork.Template.Chat
 {
     public class ChatFeatureChecker : AbpZeroTemplateDomainServiceBase, IChatFeatureChecker
     {

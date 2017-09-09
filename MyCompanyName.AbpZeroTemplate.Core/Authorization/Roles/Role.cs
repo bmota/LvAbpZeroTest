@@ -1,7 +1,7 @@
 ﻿using Abp.Authorization.Roles;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
+using xtWork.Template.Authorization.Users;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Roles
+namespace xtWork.Template.Authorization.Roles
 {
     /// <summary>
     /// Represents a role in the system.

@@ -1,9 +1,9 @@
 using System.ComponentModel.DataAnnotations;
 using Abp.Application.Services.Dto;
 using Abp.MultiTenancy;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
+using xtWork.Template.Authorization.Users;
 
-namespace MyCompanyName.AbpZeroTemplate.MultiTenancy.Dto
+namespace xtWork.Template.MultiTenancy.Dto
 {
     public class CreateTenantInput
     {

@@ -1,8 +1,8 @@
 ﻿using System.Linq;
-using MyCompanyName.AbpZeroTemplate.Editions;
-using MyCompanyName.AbpZeroTemplate.EntityFramework;
+using xtWork.Template.Editions;
+using xtWork.Template.EntityFramework;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrations.Seed.Tenants
+namespace xtWork.Template.Migrations.Seed.Tenants
 {
     public class DefaultTenantBuilder
     {

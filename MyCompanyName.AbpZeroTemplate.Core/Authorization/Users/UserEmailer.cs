@@ -7,12 +7,12 @@ using Abp.Domain.Uow;
 using Abp.Extensions;
 using Abp.Net.Mail;
 using Abp.Runtime.Security;
-using MyCompanyName.AbpZeroTemplate.Chat;
-using MyCompanyName.AbpZeroTemplate.Emailing;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
-using MyCompanyName.AbpZeroTemplate.Web;
+using xtWork.Template.Chat;
+using xtWork.Template.Emailing;
+using xtWork.Template.MultiTenancy;
+using xtWork.Template.Web;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users
+namespace xtWork.Template.Authorization.Users
 {
     /// <summary>
     /// Used to send email to users.

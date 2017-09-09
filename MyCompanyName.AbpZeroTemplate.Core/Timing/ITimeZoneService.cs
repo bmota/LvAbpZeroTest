@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using Abp.Configuration;
 
-namespace MyCompanyName.AbpZeroTemplate.Timing
+namespace xtWork.Template.Timing
 {
     public interface ITimeZoneService
     {

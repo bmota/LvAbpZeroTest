@@ -4,9 +4,9 @@ using Abp.Configuration.Startup;
 using Abp.Dependency;
 using Abp.Extensions;
 using Abp.Text;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
+using xtWork.Template.MultiTenancy;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.MultiTenancy
+namespace xtWork.Template.Web.MultiTenancy
 {
     /// <summary>
     /// Finds current tenant's tenancyname from subdomain of current URL.

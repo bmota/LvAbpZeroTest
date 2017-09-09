@@ -1,9 +1,9 @@
 ﻿using System.Linq;
 using Abp.Organizations;
-using MyCompanyName.AbpZeroTemplate.EntityFramework;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
+using xtWork.Template.EntityFramework;
+using xtWork.Template.MultiTenancy;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.TestDatas
+namespace xtWork.Template.Tests.TestDatas
 {
     /* Creates OU tree for default tenant as shown below:
      * 

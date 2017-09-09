@@ -1,8 +1,8 @@
 ﻿using Abp.AutoMapper;
 using System.Linq;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto;
+using xtWork.Template.Authorization.Users.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Users
+namespace xtWork.Template.Web.Areas.Mpa.Models.Users
 {
     [AutoMapFrom(typeof (GetUserForEditOutput))]
     public class CreateOrEditUserModalViewModel : GetUserForEditOutput

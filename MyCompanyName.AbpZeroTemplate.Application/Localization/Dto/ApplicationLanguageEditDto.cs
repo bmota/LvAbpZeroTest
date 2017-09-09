@@ -2,7 +2,7 @@
 using Abp.AutoMapper;
 using Abp.Localization;
 
-namespace MyCompanyName.AbpZeroTemplate.Localization.Dto
+namespace xtWork.Template.Localization.Dto
 {
     [AutoMapFrom(typeof(ApplicationLanguage))]
     public class ApplicationLanguageEditDto

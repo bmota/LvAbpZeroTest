@@ -4,13 +4,13 @@ using System.Threading.Tasks;
 using Abp.Authorization.Users;
 using Abp.Domain.Uow;
 using Abp.Runtime.Security;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto;
-using MyCompanyName.AbpZeroTemplate.MultiTenancy;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.Authorization.Users.Dto;
+using xtWork.Template.MultiTenancy;
 using Shouldly;
 using Xunit;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.Authorization.Users
+namespace xtWork.Template.Tests.Authorization.Users
 {
     public class UserAppService_Link_Tests : UserAppServiceTestBase
     {

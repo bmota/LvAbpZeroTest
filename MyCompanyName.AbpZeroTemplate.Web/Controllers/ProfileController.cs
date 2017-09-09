@@ -14,13 +14,13 @@ using Abp.Runtime.Session;
 using Abp.UI;
 using Abp.Web.Models;
 using Abp.Web.Mvc.Authorization;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
-using MyCompanyName.AbpZeroTemplate.Friendships;
-using MyCompanyName.AbpZeroTemplate.IO;
-using MyCompanyName.AbpZeroTemplate.Net.MimeTypes;
-using MyCompanyName.AbpZeroTemplate.Storage;
+using xtWork.Template.Authorization.Users;
+using xtWork.Template.Friendships;
+using xtWork.Template.IO;
+using xtWork.Template.Net.MimeTypes;
+using xtWork.Template.Storage;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Controllers
+namespace xtWork.Template.Web.Controllers
 {
     [AbpMvcAuthorize]
     public class ProfileController : AbpZeroTemplateControllerBase

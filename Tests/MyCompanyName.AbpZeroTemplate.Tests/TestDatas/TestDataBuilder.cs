@@ -1,7 +1,7 @@
 ﻿using EntityFramework.DynamicFilters;
-using MyCompanyName.AbpZeroTemplate.EntityFramework;
+using xtWork.Template.EntityFramework;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.TestDatas
+namespace xtWork.Template.Tests.TestDatas
 {
     public class TestDataBuilder
     {

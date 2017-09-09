@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace MyCompanyName.AbpZeroTemplate.Friendships.Dto
+namespace xtWork.Template.Friendships.Dto
 {
     public class BlockUserInput 
     {

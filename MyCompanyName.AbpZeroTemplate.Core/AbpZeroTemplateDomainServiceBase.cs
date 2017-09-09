@@ -1,6 +1,6 @@
 ﻿using Abp.Domain.Services;
 
-namespace MyCompanyName.AbpZeroTemplate
+namespace xtWork.Template
 {
     public abstract class AbpZeroTemplateDomainServiceBase : DomainService
     {

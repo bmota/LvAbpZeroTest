@@ -8,11 +8,11 @@ using Abp.Authorization;
 using Abp.AutoMapper;
 using Abp.Linq.Extensions;
 using Abp.Extensions;
-using MyCompanyName.AbpZeroTemplate.Authorization.Permissions;
-using MyCompanyName.AbpZeroTemplate.Authorization.Permissions.Dto;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles.Dto;
+using xtWork.Template.Authorization.Permissions;
+using xtWork.Template.Authorization.Permissions.Dto;
+using xtWork.Template.Authorization.Roles.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Roles
+namespace xtWork.Template.Authorization.Roles
 {
     /// <summary>
     /// Application service that is used by 'role management' page.

@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using Abp.Application.Services.Dto;
-using MyCompanyName.AbpZeroTemplate.Authorization.Permissions.Dto;
+using xtWork.Template.Authorization.Permissions.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto
+namespace xtWork.Template.Authorization.Users.Dto
 {
     public class GetUserPermissionsForEditOutput
     {

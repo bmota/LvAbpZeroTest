@@ -2,7 +2,7 @@
 using Abp.EntityFramework;
 using Abp.EntityFramework.Repositories;
 
-namespace MyCompanyName.AbpZeroTemplate.EntityFramework.Repositories
+namespace xtWork.Template.EntityFramework.Repositories
 {
     /// <summary>
     /// Base class for custom repositories of the application.

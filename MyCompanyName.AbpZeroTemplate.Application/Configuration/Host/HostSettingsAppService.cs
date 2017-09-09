@@ -8,14 +8,14 @@ using Abp.Json;
 using Abp.Net.Mail;
 using Abp.Timing;
 using Abp.Zero.Configuration;
-using MyCompanyName.AbpZeroTemplate.Authorization;
-using MyCompanyName.AbpZeroTemplate.Configuration.Host.Dto;
-using MyCompanyName.AbpZeroTemplate.Editions;
-using MyCompanyName.AbpZeroTemplate.Security;
-using MyCompanyName.AbpZeroTemplate.Timing;
+using xtWork.Template.Authorization;
+using xtWork.Template.Configuration.Host.Dto;
+using xtWork.Template.Editions;
+using xtWork.Template.Security;
+using xtWork.Template.Timing;
 using Newtonsoft.Json;
 
-namespace MyCompanyName.AbpZeroTemplate.Configuration.Host
+namespace xtWork.Template.Configuration.Host
 {
     [AbpAuthorize(AppPermissions.Pages_Administration_Host_Settings)]
     public class HostSettingsAppService : AbpZeroTemplateAppServiceBase, IHostSettingsAppService

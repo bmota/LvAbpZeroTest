@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MyCompanyName.AbpZeroTemplate.Auditing;
+using xtWork.Template.Auditing;
 using Shouldly;
 using Xunit;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.Auditing
+namespace xtWork.Template.Tests.Auditing
 {
     public class NamespaceStripper_Tests: AppTestBase
     {

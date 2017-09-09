@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using Abp.IO;
 
-namespace MyCompanyName.AbpZeroTemplate.IO
+namespace xtWork.Template.IO
 {
     public static class AppFileHelper
     {

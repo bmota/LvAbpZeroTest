@@ -2,12 +2,12 @@
 using System.Threading.Tasks;
 using Abp.Application.Services.Dto;
 using Abp.Extensions;
-using MyCompanyName.AbpZeroTemplate.Authorization.Roles;
-using MyCompanyName.AbpZeroTemplate.Authorization.Users;
+using xtWork.Template.Authorization.Roles;
+using xtWork.Template.Authorization.Users;
 using Shouldly;
 using Xunit;
 
-namespace MyCompanyName.AbpZeroTemplate.Tests.Authorization.Users
+namespace xtWork.Template.Tests.Authorization.Users
 {
     public class UserAppService_GetUserForEdit_Tests : UserAppServiceTestBase
     {

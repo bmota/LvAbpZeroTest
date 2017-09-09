@@ -1,7 +1,7 @@
 ﻿using Abp.AutoMapper;
-using MyCompanyName.AbpZeroTemplate.Localization.Dto;
+using xtWork.Template.Localization.Dto;
 
-namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Languages
+namespace xtWork.Template.Web.Areas.Mpa.Models.Languages
 {
     [AutoMapFrom(typeof(GetLanguageForEditOutput))]
     public class CreateOrEditLanguageModalViewModel : GetLanguageForEditOutput

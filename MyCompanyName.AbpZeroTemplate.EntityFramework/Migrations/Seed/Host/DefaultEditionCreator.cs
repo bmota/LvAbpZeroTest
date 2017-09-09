@@ -1,11 +1,11 @@
 using System.Linq;
 using Abp.Application.Editions;
 using Abp.Application.Features;
-using MyCompanyName.AbpZeroTemplate.Editions;
-using MyCompanyName.AbpZeroTemplate.EntityFramework;
-using MyCompanyName.AbpZeroTemplate.Features;
+using xtWork.Template.Editions;
+using xtWork.Template.EntityFramework;
+using xtWork.Template.Features;
 
-namespace MyCompanyName.AbpZeroTemplate.Migrations.Seed.Host
+namespace xtWork.Template.Migrations.Seed.Host
 {
     public class DefaultEditionCreator
     {

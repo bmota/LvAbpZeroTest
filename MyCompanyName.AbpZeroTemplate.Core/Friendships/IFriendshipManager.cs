@@ -1,7 +1,7 @@
 ﻿using Abp;
 using Abp.Domain.Services;
 
-namespace MyCompanyName.AbpZeroTemplate.Friendships
+namespace xtWork.Template.Friendships
 {
     public interface IFriendshipManager : IDomainService
     {
