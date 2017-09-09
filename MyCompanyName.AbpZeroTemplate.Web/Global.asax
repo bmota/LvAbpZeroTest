@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="MyCompanyName.AbpZeroTemplate.Web.MvcApplication" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="xtWork.Template.Web.MvcApplication" Language="C#" %>

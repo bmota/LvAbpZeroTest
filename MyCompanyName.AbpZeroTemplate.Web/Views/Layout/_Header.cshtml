@@ -2,7 +2,7 @@
 @using Abp.Collections.Extensions
 @using Abp.Extensions
 @using xtWork.Template.Web.Views
-@model MyCompanyName.AbpZeroTemplate.Web.Models.Layout.HeaderViewModel
+@model xtWork.Template.Web.Models.Layout.HeaderViewModel
 @helper ShowMenuItemRecursively(UserMenuItem menuItem, int currentLevel)
 {
     <li class="@(menuItem.Name == Model.CurrentPageName ? "active" : "") @(menuItem.Items.IsNullOrEmpty() ? "" : (currentLevel == 0 ? "dropdown" : "dropdown-submenu"))">

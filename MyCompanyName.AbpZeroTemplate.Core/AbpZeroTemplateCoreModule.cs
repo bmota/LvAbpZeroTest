@@ -45,8 +45,8 @@ namespace xtWork.Template
                     "AbpZeroTemplate",
                     new XmlEmbeddedFileLocalizationDictionaryProvider(
                         Assembly.GetExecutingAssembly(),
-                        "xtWork.Template.Localization.AbpZeroTemplate"
-                        //  "MyCompanyName.AbpZeroTemplate.Localization.AbpZeroTemplate"
+                        "xtWork.Template.Core.Localization.AbpZeroTemplate"
+                        //  "xtWork.Template.Localization.AbpZeroTemplate"
                         )
                     )
                 );

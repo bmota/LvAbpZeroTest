@@ -21,7 +21,7 @@ namespace xtWork.Template.Web.Routing
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional },
-                namespaces: new[] { "MyCompanyName.AbpZeroTemplate.Web.Controllers" }
+                namespaces: new[] { "xtWork.Template.Web.Controllers" }
             );
         }
     }

@@ -34,12 +34,12 @@ namespace xtWork.Template.WebApi
             Configuration.Modules.AbpWebApi().HttpConfiguration
                 .EnableSwagger(c =>
                 {
-                    c.SingleApiVersion("v1", "MyCompanyName.AbpZeroTemplate.WebApi");
+                    c.SingleApiVersion("v1", "xtWork.Template.WebApi");
                     c.ResolveConflictingActions(apiDescriptions => apiDescriptions.First());
                 })
                 .EnableSwaggerUi(c =>
                 {
-                    c.InjectJavaScript(Assembly.GetAssembly(typeof(AbpZeroTemplateWebApiModule)), "MyCompanyName.AbpZeroTemplate.WebApi.Scripts.Swagger-Custom.js");
+                    c.InjectJavaScript(Assembly.GetAssembly(typeof(AbpZeroTemplateWebApiModule)), "xtWork.Template.WebApi.Scripts.Swagger-Custom.js");
                 });
         }
     }

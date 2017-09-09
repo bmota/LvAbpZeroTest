@@ -1,7 +1,7 @@
 ﻿@using Abp.Application.Editions
 @using Abp.Extensions
 @using xtWork.Template.Web.Areas.Mpa.Models.Common.Modals
-@model MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Editions.CreateOrEditEditionModalViewModel
+@model xtWork.Template.Web.Areas.Mpa.Models.Editions.CreateOrEditEditionModalViewModel
 
 @Html.Partial("~/Areas/Mpa/Views/Common/Modals/_ModalHeader.cshtml", new ModalHeaderViewModel(Model.IsEditMode ? (L("EditEdition") + ": " + Model.Edition.DisplayName) : L("CreateNewEdition")))
 

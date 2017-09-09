@@ -1,5 +1,5 @@
 ﻿@using Abp.Extensions
-@model MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Common.IPermissionsEditViewModel
+@model xtWork.Template.Web.Areas.Mpa.Models.Common.IPermissionsEditViewModel
 @helper CreatePermissionTreeItems(string parentName)
 {
     var permissions = Model.Permissions.Where(p => p.ParentName == parentName || (p.ParentName.IsNullOrEmpty() && parentName.IsNullOrEmpty())).ToList();

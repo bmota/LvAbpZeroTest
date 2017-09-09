@@ -8,7 +8,7 @@
                 //add your custom notification data types here...
 
                 /* Example:
-                abp.notifications.messageFormatters['MyCompanyName.AbpZeroTemplate.MyNotificationDataType'] = function(userNotification) {
+                abp.notifications.messageFormatters['xtWork.Template.MyNotificationDataType'] = function(userNotification) {
                     return ...; //format and return message here
                 };
                 */

@@ -1,6 +1,6 @@
 ﻿@using Abp.Extensions
 @using Abp.Json
-@model MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Common.IFeatureEditViewModel
+@model xtWork.Template.Web.Areas.Mpa.Models.Common.IFeatureEditViewModel
 @helper CreateFeatureTreeItems(string parentName)
 {
     var features = Model.Features.Where(p => p.ParentName == parentName || (p.ParentName.IsNullOrEmpty() && parentName.IsNullOrEmpty())).ToList();
