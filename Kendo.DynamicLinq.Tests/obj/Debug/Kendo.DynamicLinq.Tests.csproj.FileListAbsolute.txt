@@ -27,3 +27,12 @@ C:\Users\bmota\Source\Repo-online\LvAbpZeroTest\Kendo.DynamicLinq.Tests\obj\Debu
 C:\Users\bmota\Source\Repo-online\LvAbpZeroTest\Kendo.DynamicLinq.Tests\obj\Debug\Kendo.DynamicLinq.Tests.csproj.CoreCompileInputs.cache
 C:\Users\bmota\Source\Repo-online\LvAbpZeroTest\Kendo.DynamicLinq.Tests\obj\Debug\Kendo.DynamicLinq.Tests.dll
 C:\Users\bmota\Source\Repo-online\LvAbpZeroTest\Kendo.DynamicLinq.Tests\obj\Debug\Kendo.DynamicLinq.Tests.pdb
+C:\Users\bmota\source\repos\LvAbpZeroTest\Kendo.DynamicLinq.Tests\bin\Debug\Kendo.DynamicLinq.Tests.dll
+C:\Users\bmota\source\repos\LvAbpZeroTest\Kendo.DynamicLinq.Tests\bin\Debug\Kendo.DynamicLinq.Tests.pdb
+C:\Users\bmota\source\repos\LvAbpZeroTest\Kendo.DynamicLinq.Tests\bin\Debug\Kendo.DynamicLinq.dll
+C:\Users\bmota\source\repos\LvAbpZeroTest\Kendo.DynamicLinq.Tests\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\bmota\source\repos\LvAbpZeroTest\Kendo.DynamicLinq.Tests\bin\Debug\Kendo.DynamicLinq.pdb
+C:\Users\bmota\source\repos\LvAbpZeroTest\Kendo.DynamicLinq.Tests\obj\Debug\Kendo.DynamicLinq.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bmota\source\repos\LvAbpZeroTest\Kendo.DynamicLinq.Tests\obj\Debug\Kendo.DynamicLinq.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bmota\source\repos\LvAbpZeroTest\Kendo.DynamicLinq.Tests\obj\Debug\Kendo.DynamicLinq.Tests.dll
+C:\Users\bmota\source\repos\LvAbpZeroTest\Kendo.DynamicLinq.Tests\obj\Debug\Kendo.DynamicLinq.Tests.pdb
